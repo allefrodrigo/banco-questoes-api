@@ -1,0 +1,1380 @@
+{
+  "listas": [
+    {
+      "nome": "LISTA 01",
+      "proficiencia": "750 a 1000 pontos",
+      "questoes": [
+        {
+          "number": "01",
+          "prova": "ENEM REGULAR 2022",
+          "probabilidade": "12.5",
+          "enunciado": "O governo de um estado pretende realizar uma obra de infraestrutura para auxiliar na integração e no processo de escoamento da produção agrícola de duas cidades. O projeto consiste na interligação direta das cidades, A e B com a Rodovia 003, pela construção das Rodovias 001 e 002. As duas rodovias serão construídas em linha reta e deverão se conectar a Rodovia 003 em um mesmo ponto, conforme esboço apresentado na figura, na qual estão também indicadas as posições das cidades A e B, considerando o eixo x posicionado sobre a Rodovia 003, e cinco localizações sugeridas para o ponto de conexão entre as três rodovias.\n\n[imagem-questao-01-1]\n\nPretende-se que a distância percorrida entre as duas cidades, pelas Rodovias 001 e 002, passando pelo ponto de conexão, seja a menor possível.\n\nDadas as exigências do projeto, qual das localizações sugeridas deve ser a escolhida para o ponto de conexão?",
+          "alternatives": {
+            "a": "I",
+            "b": "II",
+            "c": "III",
+            "d": "IV",
+            "e": "V"
+          },
+          "answer": "d"
+        },
+        {
+          "number": "02",
+          "prova": "ENEM REGULAR 2022",
+          "probabilidade": "6.5",
+          "enunciado": "Uma cozinheira produz docinhos especiais por encomenda. Usando uma receita-base de massa, ela prepara uma porção, com a qual produz 50 docinhos maciços de formato esférico, com 2 cm de diâmetro. Um cliente encomenda 150 desses docinhos, mas pede que cada um tenha formato esférico com 4 cm de diâmetro. A cozinheira pretende preparar o número exato as porções de porções da receita-base de massa necessário para produzir os docinhos dessa encomenda.\n\nQuantas porções da receita-base de massa ela deve preparar para atender esse cliente?",
+          "alternatives": {
+            "a": "2",
+            "b": "3",
+            "c": "6",
+            "d": "12",
+            "e": "24"
+          },
+          "answer": "e"
+        },
+        {
+          "number": "03",
+          "prova": "ENEM REGULAR 2022",
+          "probabilidade": "16.5",
+          "enunciado": "Um casal planeja construir em sua chácara uma piscina com o formato de um paralelepípedo reto retângulo com capacidade para 90.000 L de água. O casal contratou uma empresa de construções que apresentou cinco projetos com diferentes combinações nas dimensões internas de profundidade, largura e comprimento. A piscina a ser construída terá revestimento interno em suas paredes e fundo com uma mesma cerâmica, e o casal irá escolher o projeto que exija a menor área de revestimento.\n\nAs dimensões internas de profundidade, largura e comprimento, respectivamente, para cada um dos projetos, são:\n\n\\- projeto I: 1,8 m, 2,0 m e 25,0 m;\n\n\\- projeto II: 2,0 m, 5,0 m e 9,0 m;\n\n\\- projeto III: 1,0 m, 6,0 m e 15,0 m;\n\n\\- projeto IV: 1,5 m, 15,0 m e 4,0 m;\n\n\\- projeto V: 2,5 m, 3,0 m e 12,0 m.\n\nO projeto que o casal deverá escolher será o",
+          "alternatives": {
+            "a": "I.",
+            "b": "II.",
+            "c": "III.",
+            "d": "IV.",
+            "e": "V."
+          },
+          "answer": "b"
+        },
+        {
+          "number": "04",
+          "prova": "ENEM REGULAR 2022",
+          "probabilidade": "12.0",
+          "enunciado": "Peças metálicas de aeronaves abandonadas em aeroportos serão recicladas. Uma dessas peças é maciça e tem o formato cilíndrico, com a medida do raio da base igual a 4 cm e a da altura igual a 50 cm. Ela será derretida, e o volume de metal resultante será utilizado para a fabricação de esferas maciças com diâmetro de 1 cm, a serem usadas para confeccionar rolamentos. Para estimar a quantidade de esferas que poderão ser produzidas a partir de cada uma das peças cilíndricas, admite-se que não ocorre perda de material durante o processo de derretimento.\n\nQuantas dessas esferas poderão ser obtidas a partir de cada peça cilíndrica?",
+          "alternatives": {
+            "a": "800",
+            "b": "1.200",
+            "c": "2.400",
+            "d": "4.800",
+            "e": "6.400"
+          },
+          "answer": "d"
+        },
+        {
+          "number": "05",
+          "prova": "ENEM REGULAR 2022",
+          "probabilidade": "18.4",
+          "enunciado": "Um atleta iniciou seu treinamento visando as competições de fim de ano. Seu treinamento consiste em cinco tipos diferentes de treinos: treino T1, treino T2, treino T3, treino T4, e treino T5. A sequência dos treinamentos deve seguir esta ordem:\n\nDia\n\n1º\n\n2º\n\n3º\n\n4º\n\n5º\n\n6º\n\n7º\n\n8º\n\n9º\n\n10º\n\n11º\n\n12º\n\n13º\n\nTreino\n\nT1\n\nR\n\nR\n\nT2\n\nR\n\nR\n\nT3\n\nR\n\nT4\n\nR\n\nR\n\nT5\n\nR\n\nA letra R significa repouso. Após completar a sequência de treinamentos, o atleta começa novamente a sequência a partir do treino T1, e segue a ordem descrita. Após 24 semanas completas de treinamento, se dará o início das competições.\n\nA sequência de treinamentos que o atleta realizará na 24ª semana de treinos é",
+          "alternatives": {
+            "a": "T3 R T4 R R T5 R.",
+            "b": "R T3 R T4 R R T5.",
+            "c": "R T4 R R T5 R T1.",
+            "d": "R R T5 R T1 R R.",
+            "e": "R T5 R T1 R R T2."
+          },
+          "answer": "b"
+        },
+        {
+          "number": "06",
+          "prova": "ENEM REGULAR 2022",
+          "probabilidade": "24.1",
+          "enunciado": "Em uma sala de cinema, para garantir que os espectadores vejam toda a imagem projetada na tela, a disposição das poltronas deve obedecer à norma técnica da Associação Brasileira de Normas Técnicas (ABNT), que faz as seguintes indicações:\n\n\\- Distância mínima (Dmín) entre a tela de projeção e o encosto da poltrona da primeira fileira deve ser de, pelo menos, 60% da largura (L) da tela.\n\n\\- Distância máxima (Dmáx) entre a tela de projeção e o encosto da poltrona da última fileira deve ser o dobro da largura (L) da tela, sendo aceitável uma distância de até 2,9 vezes a largura (L) da tela.\n\nPara o espaçamento entre as fileiras de poltronas, é considerada a distância de 1 metro entre os encostos e as poltronas em duas fileiras consecutivas.\n\nDisponível em: www.ctav.gov.br.Acesso em 14 nov. 20\n\nUma sala de cinema, cuja largura da tela mede 12 m, está montada em conformidade com as normas da ABNT tem suas dimensões especificadas na figura.\n\n[imagem-questao-06-1]\n\nPretende-se ampliar essa sala, mantendo-se na mesma posição a tela e todas as poltronas já instaladas, ampliando-se ao máximo a sala para os fundos (área de instalação de novas poltronas), respeitando-se o limite aceitável da norma da ABNT. A intenção é aumentar, ao máximo, a quantidade de poltronas da sala, instalando-se novas unidades, iguais às já instaladas.\n\nQuantas fileiras de poltronas a sala comportará após essa ampliação?",
+          "alternatives": {
+            "a": "26",
+            "b": "27",
+            "c": "28",
+            "d": "29",
+            "e": "35"
+          },
+          "answer": "c"
+        },
+        {
+          "number": "07",
+          "prova": "ENEM REGULAR 2022",
+          "probabilidade": "12.7",
+          "enunciado": "Em jogos de voleibol, um saque é invalidado se a bola atingir o teto do ginásio onde ocorre o jogo. Um jogador de uma equipe tem um saque que atinge uma grande altura. Seu recorde foi quando a batida do saque se iniciou a uma altura de 1,5 m do piso da quadra, e a trajetória da bola foi descrita pela parábola [imagem-questao-07-1] em que y representa a altura da bola em relação ao eixo x (das abscissas) que está localizado a 1,5 m do piso da quadra, como representado na figura. Suponha que em todas as partidas algum saque desse jogador atinja a mesma altura do seu recorde.\n\n[imagem-questao-07-2]\n\nA equipe desse jogador participou de um torneio de voleibol no qual jogou cinco partidas, cada uma delas em um ginásio diferente. As alturas dos tetos desses ginásios, em relação aos pisos das quadras, são:\n\n\\- ginásio l: 17 m;\n\n\\- ginásio II: 18 m;\n\n\\- ginásio III: 19 m;\n\n\\- ginásio IV: 21 m;\n\n\\- ginásio V: 40 m.\n\nO saque desse atleta foi invalidado",
+          "alternatives": {
+            "a": "apenas no ginásio I.",
+            "b": "apenas nos ginásios I e II.",
+            "c": "apenas nos ginásios I, II e III.",
+            "d": "apenas nos ginásios I, II, III e IV.",
+            "e": "em todos os ginásios."
+          },
+          "answer": "d"
+        },
+        {
+          "number": "08",
+          "prova": "ENEM REGULAR 2022",
+          "probabilidade": "0.9",
+          "enunciado": "O pacote básico de um jogo para smartphone, que é vendido a R$ 50,00, contém 2.000 gemas e 100.000 moedas de ouro, que são itens utilizáveis nesse jogo.\n\nA empresa que comercializa esse jogo decidiu criar um pacote especial que será vendido a R$ 100,00 e que se diferenciará do pacote básico por apresentar maiores quantidades de gemas e moedas de ouro. Para estimular as vendas desse novo pacote, a empresa decidiu inserir nele 6.000 gemas a mais, em relação ao que o cliente teria caso optasse por comprar, com a mesma quantia, dois pacotes básicos.\n\nA quantidade de moedas de ouro que a empresa deverá inserir ao pacote especial, para que seja mantida a mesma proporção existente entre as quantidades de gemas e de moedas de ouro contidas no pacote básico, é",
+          "alternatives": {
+            "a": "50.000.",
+            "b": "100.000.",
+            "c": "200.000.",
+            "d": "300.000.",
+            "e": "400.000."
+          },
+          "answer": "e"
+        },
+        {
+          "number": "09",
+          "prova": "ENEM REGULAR 2022",
+          "probabilidade": "14.7",
+          "enunciado": "Uma equipe de marketing digital foi contratada para aumentar as vendas de um produto ofertado em um site de comércio eletrônico. Para isso, elaborou um anúncio que, quando o cliente clica sobre ele, é direcionado para a página de vendas do produto. Esse anúncio foi divulgado em duas redes sociais, A e B, e foram obtidos os seguintes resultados:\n\n\\- rede social A: o anúncio foi visualizado por 3.000 pessoas; 10% delas clicaram sobre o anúncio e foram redirecionadas para o site; 3% das que clicaram sobre o anúncio compraram o produto. O investimento feito para a publicação do anúncio nessa rede foi de R$ 100,00;\n\n\\- rede social B: o anúncio foi visualizado por 1.000 pessoas; 30% delas clicaram sobre o anúncio e foram redirecionadas para o site; 2% das que clicaram sobre o anúncio compraram o produto. O investimento feito para a publicação do anúncio nessa rede foi de R$ 200,00.\n\nPor experiência, o pessoal da equipe de marketing considera que a quantidade de novas pessoas que verão o anúncio é diretamente proporcional ao investimento realizado, e que a quantidade de pessoas que comprarão o produto também se manterá proporcional à quantidade de pessoas que clicarão sobre o anúncio.\n\nO responsável pelo produto decidiu, então, investir mais R$ 300,00 em cada uma das duas redes sociais para a divulgação desse anúncio e obteve, de fato, o aumento proporcional esperado na quantidade de clientes que compraram esse produto. Para classificar o aumento obtido na quantidade (Q) de compradores desse produto, em consequência dessa segunda divulgação, em relação aos resultados observados na primeira divulgação, o responsável pelo produto adotou o seguinte critério:\n\n\\- [imagem-questao-09-1] não satisfatório;\n\n\\- [imagem-questao-09-2] regular;\n\n\\- [imagem-questao-09-3] bom;\n\n\\- [imagem-questao-09-4] muito bom;\n\n\\- [imagem-questao-09-5] excelente.\n\nO aumento na quantidade de compradores, em consequência dessa segunda divulgação, em relação ao que foi registrado com a primeira divulgação, foi classificado como",
+          "alternatives": {
+            "a": "não satisfatório.",
+            "b": "regular.",
+            "c": "bom.",
+            "d": "muito bom.",
+            "e": "excelente."
+          },
+          "answer": "c"
+        },
+        {
+          "number": "10",
+          "prova": "ENEM REGULAR 2022",
+          "probabilidade": "21.2",
+          "enunciado": "Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1.000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 7 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis.\n\nPara ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é",
+          "alternatives": {
+            "a": "8.",
+            "b": "9.",
+            "c": "11.",
+            "d": "18.",
+            "e": "24."
+          },
+          "answer": "b"
+        },
+        {
+          "number": "11",
+          "prova": "ENEM REGULAR 2022",
+          "probabilidade": "18.3",
+          "enunciado": "Um casal está reformando a cozinha de casa e decidiu comprar um refrigerador novo. Observando a planta da nova cozinha, desenhada na escala de 1:50, notaram que o espaço destinado ao refrigerador tinha 3,8 cm de altura e 1,6 cm de largura. Eles sabem que os fabricantes de refrigeradores indicam que, para um bom funcionamento e fácil manejo na limpeza, esses eletrodomésticos devem ser colocados em espaços que permitam uma distância de, pelo menos, 10 cm de outros móveis ou paredes, tanto na parte superior quanto nas laterais. O casal comprou um refrigerador que caberia no local a ele destinado na nova cozinha, seguindo as instruções do fabricante.\n\nEsse refrigerador tem altura e largura máximas, em metro, respectivamente, iguais a",
+          "alternatives": {
+            "a": "1,80 e 0,60.",
+            "b": "1,80 e 0,70.",
+            "c": "1,90 e 0,80.",
+            "d": "2,00 e 0,90.",
+            "e": "2,00 e 1,00."
+          },
+          "answer": "a"
+        },
+        {
+          "number": "12",
+          "prova": "ENEM REGULAR 2022",
+          "probabilidade": "16.9",
+          "enunciado": "Foram convidadas 32 equipes para um torneio de futebol, que foram divididas em 8 grupos com 4 equipes, sendo que, dentro de um grupo, cada equipe disputa uma única partida contra cada uma das demais equipes de seu grupo. A primeira e a segunda colocadas de cada grupo seguem para realizar as 8 partidas da próxima fase do torneio, chamada oitavas de final. Os vencedores das partidas das oitavas de final seguem para jogar as 4 partidas das quartas de final. Os vencedores das quartas de final disputam as 2 partidas das semifinais, e os vencedores avançam para a grande final, que define a campeã do torneio.\n\nPelas regras do torneio, cada equipe deve ter um período de descanso de, no mínimo, 3 dias entre dois jogos por ela disputados, ou seja, se um time disputar uma partida, por exemplo, num domingo, só poderá disputar a partida seguinte a partir da quinta-feira da mesma semana.\n\nO número mínimo de dias necessários para a realização desse torneio é",
+          "alternatives": {
+            "a": "22.",
+            "b": "25.",
+            "c": "28.",
+            "d": "48.",
+            "e": "64."
+          },
+          "answer": "b"
+        },
+        {
+          "number": "13",
+          "prova": "ENEM REGULAR 2022",
+          "probabilidade": "3.2",
+          "enunciado": "A _World Serie_s é a decisão do campeonato norte-americano de beisebol. Os dois times que chegam a essa fase jogam, entre si, até sete partidas. O primeiro desses times que completar quatro vitórias é declarado campeão.\n\nConsidere que, em todas as partidas, a probabilidade de qualquer um dos dois times vencer é sempre [imagem-questao-13-1]\n\nQual é a probabilidade de o time campeão ser aquele que venceu a primeira partida da _World Series_?",
+          "alternatives": {
+            "a": "[imagem-questao-13-2]",
+            "b": "[imagem-questao-13-3]",
+            "c": "[imagem-questao-13-4]",
+            "d": "[imagem-questao-13-5]",
+            "e": "[imagem-questao-13-6]"
+          },
+          "answer": "c"
+        },
+        {
+          "number": "14",
+          "prova": "ENEM PPL 2022",
+          "probabilidade": "20.3",
+          "enunciado": "O chocolate é um dos alimentos mais apreciados e desejados do mundo. Uma loja especializada nesse produto oferece uma promoção para os bombons, que custam R$ 2,00 cada. Cada cliente tem x% de desconto na compra de x bombons. A promoção é válida para a compra de até 40 bombons, ou seja, 40% é o desconto máximo possível. Queremos escrever uma expressão para V em função de x, com [imagem-questao-14-1]\n\nQual é a expressão do valor V, em reais, na compra de x bombons da promoção, por cliente?",
+          "alternatives": {
+            "a": "[imagem-questao-14-2]",
+            "b": "[imagem-questao-14-3]",
+            "c": "[imagem-questao-14-4]",
+            "d": "[imagem-questao-14-5]",
+            "e": "[imagem-questao-14-6]"
+          },
+          "answer": "c"
+        },
+        {
+          "number": "15",
+          "prova": "ENEM PPL 2022",
+          "probabilidade": "20.3",
+          "enunciado": "A trajetória de uma pessoa que pula de um andaime até o chão é descrita por uma função [imagem-questao-15-1] sendo x e y medidos em metro, conforme mostra a figura.\n\n[imagem-questao-15-2]\n\nSeja D o domínio da função f(x), como definida na figura.\n\nPara que a situação representada na figura seja real, o domínio dessa função deve ser igual a",
+          "alternatives": {
+            "a": "{x2}, sendo x2 a raiz positiva de f(x).",
+            "b": "[imagem-questao-15-3] sendo x2 a raiz positiva de f(x).",
+            "c": "[imagem-questao-15-4] sendo x1 e x2 raízes de f(x), com x1 < x2.",
+            "d": "[imagem-questao-15-5]",
+            "e": "[imagem-questao-15-6]"
+          },
+          "answer": "b"
+        }
+      ],
+      "gabarito": {
+        "10": "b",
+        "11": "a",
+        "12": "b",
+        "13": "c",
+        "14": "c",
+        "15": "b",
+        "01": "d",
+        "02": "e",
+        "03": "b",
+        "04": "d",
+        "05": "b",
+        "06": "c",
+        "07": "d",
+        "08": "e",
+        "09": "c"
+      }
+    },
+    {
+      "nome": "LISTA 02",
+      "proficiencia": "750 a 1000 pontos",
+      "questoes": [
+        {
+          "number": "01",
+          "prova": "ENEM PPL 2022",
+          "probabilidade": "29.6",
+          "enunciado": "Para tornar uma pista de automobilismo mais segura, foram solicitadas intervenções em seu traçado. Os engenheiros contratados elaboraram um projeto com cinco possíveis modificações, destacadas nos setores (I), (II), (III), (IV) e (V) pelas linhas tracejadas, como mostra a figura. No entanto, na temporada atual, só é permitido que se façam duas dessas alterações.\n\nTodos os trechos passíveis de modificação, tanto no traçado original quanto no novo traçado, são semicircunferências ou segmentos de reta.\n\n[imagem-questao-01-1]\n\nPretende-se que a nova pista tenha extensão mais próxima que a da original após duas modificações. Os trechos em comum da pista original e da nova pista não serão alterados.\n\nUtilize 3 como aproximação para [imagem-questao-01-2]\n\nPara atender às condições apresentadas, quais setores deverão ser modificados?",
+          "alternatives": {
+            "a": "I e V",
+            "b": "II e III",
+            "c": "II e V",
+            "d": "III e IV",
+            "e": "IV e V"
+          },
+          "answer": "c"
+        },
+        {
+          "number": "02",
+          "prova": "ENEM PPL 2022",
+          "probabilidade": "30.0",
+          "enunciado": "A tarifa da energia elétrica no Brasil tem sofrido variações em função do seu custo de produção, seguindo um sistema de bandeiras tarifárias. Esse sistema indica se haverá ou não acréscimo no valor do quilowatt-hora (kWh). Suponha que o repasse ao consumidor final seja da seguinte maneira:\n\n\\- bandeira verde: a tarifa não sofre acréscimo;\n\n\\- bandeira amarela: a tarifa sofre acréscimo de R$ 0,015 para cada kWh consumido;\n\n\\- bandeira vermelha – patamar 1: a tarifa sofre acréscimo de R$ 0,04 para cada kWh consumido;\n\n\\- bandeira vermelha – patamar 2: a tarifa sofre acréscimo de R$ 0,06 para cada kWh consumido.\n\nA conta de energia elétrica em uma residência é constituída apenas por um valor correspondente à quantidade de energia elétrica consumida no período medido, multiplicada pela tarifa correspondente. O valor da tarifa em um período com uso da bandeira verde é R$ 0,42 por kWh consumido. Uma forte estiagem justificou a alteração da bandeira verde para a bandeira vermelha – patamar 2.\n\nUm usuário, cujo consumo é tarifado na bandeira verde, observa o seu consumo médio mensal. Para não afetar o seu orçamento familiar, ele pretende alterar a sua prática de uso de energia, reduzindo o seu consumo, de maneira que a sua próxima fatura tenha, no máximo, o mesmo valor da conta de energia do período em que era aplicada a bandeira verde.\n\nQual percentual mínimo de redução de consumo esse usuário deverá praticar de forma a atingir seu objetivo?",
+          "alternatives": {
+            "a": "6,0%",
+            "b": "12,5%",
+            "c": "14,3%",
+            "d": "16,6%",
+            "e": "87,5%"
+          },
+          "answer": "b"
+        },
+        {
+          "number": "03",
+          "prova": "ENEM PPL 2022",
+          "probabilidade": "30.3",
+          "enunciado": "Um novo produto, denominado bolo de caneca no micro-ondas, foi lançado no mercado com o objetivo de atingir ao público que não tem muito tempo para cozinhar. Para prepará-lo, uma pessoa tem à sua disposição duas opções de canecas, apresentadas na figura.\n\n[imagem-questao-03-1]\n\nA caneca A tem formato de um prisma reto regular hexagonal de lado L = 4 cm, e a caneca B tem formato de um cilindro circular reto de diâmetro d = 6 cm. Sabe-se que ambas têm a mesma altura h = 10 cm, e que essa pessoa escolherá a caneca com maior capacidade. Considere [imagem-questao-03-2] e [imagem-questao-03-3]\n\nA medida da capacidade, em centímetro cúbico, da caneca escolhida é",
+          "alternatives": {
+            "a": "186.",
+            "b": "279.",
+            "c": "408.",
+            "d": "816.",
+            "e": "1.116."
+          },
+          "answer": "c"
+        },
+        {
+          "number": "04",
+          "prova": "ENEM PPL 2022",
+          "probabilidade": "18.9",
+          "enunciado": "Três amigos realizaram uma viagem de carro entre duas cidades, num tempo total de 31 horas. Para não fazer paradas, revezaram na direção, de forma que cada um deles dirigisse um terço da quilometragem total. O primeiro, mais prudente, dirigiu a uma velocidade média de 75 quilômetros por hora; o segundo, a uma velocidade média de 90 quilômetros por hora; e o último, mais apressado, dirigiu a uma velocidade média de 100 quilômetros por hora.\n\nA distância percorrida por eles, em quilômetros, foi de",
+          "alternatives": {
+            "a": "900.",
+            "b": "2.700.",
+            "c": "2.738.",
+            "d": "2.790.",
+            "e": "8.215."
+          },
+          "answer": "b"
+        },
+        {
+          "number": "05",
+          "prova": "ENEM PPL 2022",
+          "probabilidade": "15.4",
+          "enunciado": "Um cliente vai a uma loja de materiais de revestimento cerâmico para adquirir porcelanato para a substituição do piso de uma sala com formato retangular, com área total de 36 m2. O vendedor dessa loja lhe oferece dois projetos.\n\n\\- Projeto A: porcelanato quadrado, com 0,60 m de lado, para ser disposto de maneira que a diagonal do quadrado seja paralela ao contorno da sala. Custo da caixa com 10 peças: R$ 60,00.\n\n\\- Projeto B: porcelanato quadrado, com 0,40 m de lado, para ser disposto de maneira que os lados do quadrado sejam paralelos ao contorno da sala. Custo da caixa com 12 peças: R$ 40,00.\n\nO vendedor informa que a fábrica recomenda a compra de uma quantidade adicional do número de peças para eventual necessidade de cortes e para reserva. No caso do projeto A, devem ser adquiridos 25% a mais, e no caso do projeto B, uma quantidade 10% maior do que o valor exato da área de recobrimento.\n\nO cliente decide, então, que irá adotar o projeto de menor custo.\n\nO custo mínimo que o cliente deverá ter, em conformidade com seu objetivo e com as informações apresentadas, será de",
+          "alternatives": {
+            "a": "R$ 600,00.",
+            "b": "R$ 660,00.",
+            "c": "R$ 720,00.",
+            "d": "R$ 780,00.",
+            "e": "R$ 840,00."
+          },
+          "answer": "d"
+        },
+        {
+          "number": "06",
+          "prova": "ENEM PPL 2022",
+          "probabilidade": "20.7",
+          "enunciado": "Sete países americanos, Argentina, Brasil, Canadá, Chile, Estados Unidos, Paraguai e Uruguai; e sete países europeus, Portugal, Espanha, França, Inglaterra, Itália, Alemanha e Suíça, decidem criar uma comissão com representantes de oito desses países, objetivando criar políticas de incentivo e regulação do turismo entre eles. Na hipótese de criação da comissão, serão escolhidos aleatoriamente quatro representantes de países das Américas e quatro representantes de países europeus, não podendo estar na comissão dois representantes de um mesmo país.\n\nQual é a probabilidade de o Brasil e a França pertencerem a essa comissão?",
+          "alternatives": {
+            "a": "[imagem-questao-06-1]",
+            "b": "[imagem-questao-06-2]",
+            "c": "[imagem-questao-06-3]",
+            "d": "[imagem-questao-06-4]",
+            "e": "[imagem-questao-06-5]"
+          },
+          "answer": "e"
+        },
+        {
+          "number": "07",
+          "prova": "ENEM REGULAR 2021",
+          "probabilidade": "3.7",
+          "enunciado": "O Atomium, representado na imagem, é um dos principais pontos turísticos de Bruxelas. Ele foi construído em 1958 para a primeira grande exposição mundial depois da Segunda Guerra Mundial, a Feira Mundial de Bruxelas.\n\nTrata-se de uma estrutura metálica construída no formato de um cubo. Essa estrutura está apoiada por um dos vértices sobre uma base paralela ao plano do solo, e a diagonal do cubo, contendo esse vértice, é ortogonal ao plano da base. Centradas nos vértices desse cubo, foram construídas oito esferas metálicas, e uma outra esfera foi construída centrada no ponto de interseção das diagonais do cubo. As oito esferas sobre os vértices são interligadas segundo suas arestas, e a esfera central se conecta a elas pelas diagonais do cubo.\n\nTodas essas interligações são feitas por tubos cilíndricos que possuem escadas em seu interior, permitindo o deslocamento de pessoas pela parte interna da estrutura. Na diagonal ortogonal à base, o deslocamento é feito por um elevador, que permite o deslocamento entre as esferas da base e a esfera do ponto mais alto, passando pela esfera central.\n\nConsidere um visitante que se deslocou pelo interior do Atomium sempre em linha reta e seguindo o menor trajeto entre dois vértices, passando por todas as arestas e todas as diagonais do cubo.\n\n[imagem-questao-07-1]\n\nA projeção ortogonal sobre o plano do solo do trajeto percorrido por esse visitante é representado por",
+          "alternatives": {
+            "a": "[imagem-questao-07-2] b) [imagem-questao-07-3]",
+            "c": "[imagem-questao-07-4] d) [imagem-questao-07-5] e) [imagem-questao-07-6]"
+          },
+          "answer": "e"
+        },
+        {
+          "number": "08",
+          "prova": "ENEM REGULAR 2021",
+          "probabilidade": "17.3",
+          "enunciado": "O organizador de uma competição de lançamento de dardos pretende tornar o campeonato mais competitivo. Pelas regras atuais da competição, numa rodada, o jogador lança 3 dardos e pontua caso acerte pelo menos um deles no alvo. O organizador considera que, em média, os jogadores têm, em cada lançamento, [imagem-questao-08-1] de probabilidade de acertar um dardo no alvo.\n\nA fim de tornar o jogo mais atrativo, planeja modificar as regras de modo que a probabilidade de um jogador pontuar em uma rodada seja igual ou superior a [imagem-questao-08-2] Para isso, decide aumentar a quantidade de dardos a serem lançados em cada rodada.\n\nCom base nos valores considerados pelo organizador da competição, a quantidade mínima de dardos que devem ser disponibilizados em uma rodada para tornar o jogo mais atrativo é",
+          "alternatives": {
+            "a": "2.",
+            "b": "4.",
+            "c": "6.",
+            "d": "9.",
+            "e": "10."
+          },
+          "answer": "b"
+        },
+        {
+          "number": "09",
+          "prova": "ENEM REGULAR 2021",
+          "probabilidade": "8.1",
+          "enunciado": "Para a comunicação entre dois navios é utilizado um sistema de codificação com base em valores numéricos. Para isso, são consideradas as operações triângulo [imagem-questao-09-1] e estrela \\*, definidas sobre o conjunto dos números reais por [imagem-questao-09-2] e [imagem-questao-09-3]\n\nO navio que deseja enviar uma mensagem deve fornecer um valor de entrada b, que irá gerar um valor de saída, a ser enviado ao navio receptor, dado pela soma das duas maiores soluções da equação [imagem-questao-09-4] Cada valor possível de entrada e saída representa uma mensagem diferente já conhecida pelos dois navios.\n\nUm navio deseja enviar ao outro a mensagem “ATENÇÃO!”. Para isso, deve utilizar o valor de entrada b = 1.\n\nDessa forma, o valor recebido pelo navio receptor será",
+          "alternatives": {
+            "a": "[imagem-questao-09-5]",
+            "b": "[imagem-questao-09-6]",
+            "c": "[imagem-questao-09-7]",
+            "d": "[imagem-questao-09-8]",
+            "e": "[imagem-questao-09-9]"
+          },
+          "answer": "e"
+        },
+        {
+          "number": "10",
+          "prova": "ENEM REGULAR 2020",
+          "probabilidade": "14.0",
+          "enunciado": "A Lei de Zipf, batizada com o nome do linguista americano George Zipf, é uma lei empírica que relaciona a frequência [imagem-questao-10-1] de uma palavra em um dado texto com o seu ranking [imagem-questao-10-2] Ela é dada por\n\n[imagem-questao-10-3]\n\nO ranking da palavra é a sua posição ao ordenar as palavras por ordem de frequência. Ou seja, [imagem-questao-10-4] para a palavra mais frequente, [imagem-questao-10-5] para a segunda palavra mais frequente e assim sucessivamente. A e B são constantes positivas.\n\nDisponível em: http://klein.sbm.org.br. Acesso em: 12 ago. 2020 (adaptado).\n\nCom base nos valores de [imagem-questao-10-6] e [imagem-questao-10-7] é possível estimar valores para A e B.\n\nNo caso hipotético em que a lei é verificada exatamente, a relação entre [imagem-questao-10-8] e [imagem-questao-10-9] é",
+          "alternatives": {
+            "a": "[imagem-questao-10-10]",
+            "b": "[imagem-questao-10-11]",
+            "c": "[imagem-questao-10-12]",
+            "d": "[imagem-questao-10-13]",
+            "e": "[imagem-questao-10-14]"
+          },
+          "answer": "a"
+        },
+        {
+          "number": "11",
+          "prova": "ENEM REGULAR 2020",
+          "probabilidade": "15.4",
+          "enunciado": "Pergolado é o nome que se dá a um tipo de cobertura projetada por arquitetos, comumente em praças e jardins, para criar um ambiente para pessoas ou plantas, no qual há uma quebra da quantidade de luz, dependendo da posição do sol. É feito como um estrado de vigas iguais, postas paralelas e perfeitamente em fila, como ilustra a figura.\n\n[imagem-questao-11-1]\n\nUm arquiteto projeta um pergolado com vãos de [imagem-questao-11-2] de distância entre suas vigas, de modo que, no solstício de verão, a trajetória do sol durante o dia seja realizada num plano perpendicular à direção das vigas, e que o sol da tarde, no momento em que seus raios fizerem [imagem-questao-11-3] com a posição a pino, gere a metade da luz que passa no pergolado ao meio-dia.\n\nPara atender à proposta do projeto elaborado pelo arquiteto, as vigas do pergolado devem ser construídas de maneira que a altura, em centímetro, seja a mais próxima possível de",
+          "alternatives": {
+            "a": "9.",
+            "b": "15.",
+            "c": "26.",
+            "d": "52.",
+            "e": "60."
+          },
+          "answer": "c"
+        },
+        {
+          "number": "12",
+          "prova": "ENEM REGULAR 2020",
+          "probabilidade": "18.9",
+          "enunciado": "Três amigos, André, Bernardo e Carlos, moram em um condomínio fechado de uma cidade. O quadriculado representa a localização das ruas paralelas e perpendiculares, delimitando quadras de mesmo tamanho nesse condomínio, em que nos pontos A, B e C estão localizadas as casas de André, Bernardo e Carlos, respectivamente.\n\n[imagem-questao-12-1]\n\nAndré deseja deslocar-se da sua casa até a casa de Bernardo, sem passar pela casa de Carlos, seguindo ao longo das ruas do condomínio, fazendo sempre deslocamentos para a direita [imagem-questao-12-2] ou para cima [imagem-questao-12-3] segundo o esquema da figura.\n\nO número de diferentes caminhos que André poderá utilizar para realizar o deslocamento nas condições propostas é",
+          "alternatives": {
+            "a": "4.",
+            "b": "14.",
+            "c": "17.",
+            "d": "35.",
+            "e": "48."
+          },
+          "answer": "c"
+        },
+        {
+          "number": "13",
+          "prova": "ENEM REGULAR 2020",
+          "probabilidade": "20.5",
+          "enunciado": "Uma pessoa precisa comprar 15 sacos de cimento para uma reforma em sua casa. Faz pesquisa de preço em cinco depósitos que vendem o cimento de sua preferência e cobram frete para entrega do material, conforme a distância do depósito à sua casa. As informações sobre preço do cimento, valor do frete e distância do depósito até a casa dessa pessoa estão apresentadas no quadro.\n\n**Depósito**\n\n**Valor do saco de cimento**\n\n**Valor do frete para cada quilômetro**\n\n**Distância entre a casa e o depósito**\n\n[imagem-questao-13-1]\n\n[imagem-questao-13-2]\n\n[imagem-questao-13-3]\n\nA\n\n23,00\n\n1,00\n\n10\n\nB\n\n21,50\n\n3,00\n\n12\n\nC\n\n22,00\n\n1,50\n\n14\n\nD\n\n21,00\n\n3,50\n\n18\n\nE\n\n24,00\n\n2,50\n\n2\n\nA pessoa escolherá um desses depósitos para realizar sua compra, considerando os preços do cimento e do frete oferecidos em cada opção.\n\nSe a pessoa decidir pela opção mais econômica, o depósito escolhido para a realização dessa compra será o",
+          "alternatives": {
+            "a": "A.",
+            "b": "B.",
+            "c": "C.",
+            "d": "D.",
+            "e": "E."
+          },
+          "answer": "c"
+        },
+        {
+          "number": "14",
+          "prova": "ENEM REGULAR 2020",
+          "probabilidade": "16.6",
+          "enunciado": "A caixa-d’água de um edifício terá a forma de um paralelepípedo retângulo reto com volume igual a [imagem-questao-14-1] litros. Em uma maquete que representa o edifício, a caixa-d'água tem dimensões [imagem-questao-14-2]\n\nDado: [imagem-questao-14-3]\n\nA escala usada pelo arquiteto foi",
+          "alternatives": {
+            "a": "[imagem-questao-14-4]",
+            "b": "[imagem-questao-14-5]",
+            "c": "[imagem-questao-14-6]",
+            "d": "[imagem-questao-14-7]",
+            "e": "[imagem-questao-14-8]"
+          },
+          "answer": "b"
+        },
+        {
+          "number": "15",
+          "prova": "ENEM REGULAR 2020",
+          "probabilidade": "14.0",
+          "enunciado": "Um hotel de 3 andares está sendo construído. Cada andar terá 100 quartos. Os quartos serão numerados de 100 a 399 e cada um terá seu número afixado à porta. Cada número será composto por peças individuais, cada uma simbolizando um único algarismo.\n\nQual a quantidade mínima de peças, simbolizando o algarismo 2, necessárias para identificar o número de todos os quartos?",
+          "alternatives": {
+            "a": "160",
+            "b": "157",
+            "c": "130",
+            "d": "120",
+            "e": "60"
+          },
+          "answer": "a"
+        }
+      ],
+      "gabarito": {
+        "10": "a",
+        "11": "c",
+        "12": "c",
+        "13": "c",
+        "14": "b",
+        "15": "a",
+        "01": "c",
+        "02": "b",
+        "03": "c",
+        "04": "b",
+        "05": "d",
+        "06": "e",
+        "07": "e",
+        "08": "b",
+        "09": "e"
+      }
+    },
+    {
+      "nome": "LISTA 03",
+      "proficiencia": "750 a 1000 pontos",
+      "questoes": [
+        {
+          "number": "01",
+          "prova": "ENEM REGULAR 2020",
+          "probabilidade": "25.5",
+          "enunciado": "Uma casa de dois andares está sendo projetada. É necessário incluir no projeto a construção de uma escada para o acesso ao segundo andar. Para o cálculo das dimensões dos degraus utilizam-se as regras:\n\n[imagem-questao-01-1] e [imagem-questao-01-2]\n\nnas quais [imagem-questao-01-3] é a altura do degrau (denominada espelho) e [imagem-questao-01-4] é a profundidade da pisada, como mostra a figura.\n\nPor conveniência, escolheu-se a altura do degrau como sendo [imagem-questao-01-5] As unidades de [imagem-questao-01-6] e [imagem-questao-01-7] estão em centímetro.\n\n[imagem-questao-01-8]\n\nNesse caso, o mais amplo intervalo numérico ao qual a profundidade da pisada [imagem-questao-01-9] deve pertencer, para que as regras sejam satisfeitas é",
+          "alternatives": {
+            "a": "[imagem-questao-01-10]",
+            "b": "[imagem-questao-01-11]",
+            "c": "[imagem-questao-01-12]",
+            "d": "[imagem-questao-01-13]",
+            "e": "[imagem-questao-01-14]"
+          },
+          "answer": "c"
+        },
+        {
+          "number": "02",
+          "prova": "ENEM REGULAR 2020",
+          "probabilidade": "23.5",
+          "enunciado": "Muitos modelos atuais de veículos possuem computador de bordo. Os computadores informam em uma tela diversas variações de grandezas associadas ao desempenho do carro, dentre elas o consumo médio de combustível. Um veículo, de um determinado modelo, pode vir munido de um dos dois tipos de computadores de bordo:\n\n\\- Tipo A: informa a quantidade [imagem-questao-02-1] de litro de combustível gasto para percorrer [imagem-questao-02-2] quilômetros\n\n\\- Tipo B: informa a quantidade de quilômetro que o veículo é capaz de percorrer com um litro de combustível.\n\nUm veículo utiliza o computador do Tipo A, e ao final de uma viagem o condutor viu apresentada na tela a informação [imagem-questao-02-3]\n\nCaso o seu veículo utilizasse o computador do Tipo B, o valor informado na tela seria obtido pela operação",
+          "alternatives": {
+            "a": "[imagem-questao-02-4]",
+            "b": "[imagem-questao-02-5]",
+            "c": "[imagem-questao-02-6]",
+            "d": "[imagem-questao-02-7]",
+            "e": "[imagem-questao-02-8]"
+          },
+          "answer": "c"
+        },
+        {
+          "number": "03",
+          "prova": "ENEM REGULAR 2020",
+          "probabilidade": "9.7",
+          "enunciado": "O técnico de um time de basquete pretende aumentar a estatura média de sua equipe de [imagem-questao-03-1] para, no mínimo, [imagem-questao-03-2] Para tanto, dentre os 15 jogadores que fazem parte de sua equipe, irá substituir os quatro mais baixos, de estaturas: [imagem-questao-03-3] [imagem-questao-03-4] [imagem-questao-03-5] e [imagem-questao-03-6] Para isso, o técnico contratou um novo jogador de [imagem-questao-03-7] Os outros três jogadores que ele ainda precisa contratar devem satisfazer à sua necessidade de aumentar a média das estaturas da equipe. Ele fixará a média das estaturas para os três jogadores que ainda precisa contratar dentro do critério inicialmente estabelecido.\n\nQual deverá ser a média mínima das estaturas, em metro, que ele deverá fixar para o grupo de três novos jogadores que ainda irá contratar?",
+          "alternatives": {
+            "a": "1,96",
+            "b": "1,98",
+            "c": "2,05",
+            "d": "2,06",
+            "e": "2,08"
+          },
+          "answer": "d"
+        },
+        {
+          "number": "04",
+          "prova": "ENEM PPL 2020",
+          "probabilidade": "26.5",
+          "enunciado": "O governador de um estado propõe a ampliação de investimentos em segurança no transporte realizado por meio de trens. Um estudo para um projeto de lei prevê que se tenha a presença de três agentes mulheres, distribuídas entre os 6 vagões de uma composição, de forma que duas dessas agentes não estejam em vagões adjacentes, garantindo assim maior segurança aos usuários.\n\nDisponível em: www.sisgraph.com.br. Acesso em: 29 jan. 2015 (adaptado).\n\nA expressão que representa a quantidade de maneiras distintas das três agentes serem distribuídas nos vagões é",
+          "alternatives": {
+            "a": "[imagem-questao-04-1]",
+            "b": "[imagem-questao-04-2]",
+            "c": "[imagem-questao-04-3]",
+            "d": "[imagem-questao-04-4]",
+            "e": "[imagem-questao-04-5]"
+          },
+          "answer": "c"
+        },
+        {
+          "number": "05",
+          "prova": "ENEM PPL 2020",
+          "probabilidade": "10.8",
+          "enunciado": "Pretende-se comprar uma mesa capaz de acomodar 6 pessoas, de modo que, assentadas em torno da mesa, cada pessoa disponha de, pelo menos, [imagem-questao-05-1] de espaço livre na borda do tampo da mesa, que deverá ter a menor área possível. Na loja visitada há mesas com tampos nas formas e dimensões especificadas:\n\n\\- Mesa I: hexágono regular, com lados medindo [imagem-questao-05-2]\n\n\\- Mesa II: retângulo, com lados medindo [imagem-questao-05-3] e [imagem-questao-05-4]\n\n\\- Mesa III: retângulo, com lados medindo [imagem-questao-05-5] e [imagem-questao-05-6]\n\n\\- Mesa IV: quadrado, com lados medindo [imagem-questao-05-7]\n\n\\- Mesa V: triângulo equilátero, com lados medindo [imagem-questao-05-8]\n\nA mesa que atende aos critérios especificados é a",
+          "alternatives": {
+            "a": "I.",
+            "b": "II.",
+            "c": "III.",
+            "d": "IV.",
+            "e": "V."
+          },
+          "answer": "e"
+        },
+        {
+          "number": "06",
+          "prova": "ENEM PPL 2020",
+          "probabilidade": "15.8",
+          "enunciado": "Uma partida de futebol tem dois tempos de 45 minutos cada. A duração do intervalo entre cada tempo é de 15 minutos. Eventualmente, por ocasião de paralisações ocorridas durante um dos tempos (como comemorações de gols, atendimento a jogadores que necessitem de maca), ocorre acréscimo ao tempo de jogo.\n\nNo Brasil, o segundo tempo é iniciado zerando-se o cronômetro, mas em campeonatos europeus, começa com o cronômetro posicionado em 45 minutos. Em uma partida de um campeonato europeu, um time marcou um gol aos 17 minutos e 45 segundos. A outra equipe empatou o jogo aos 54 minutos e 32 segundos. O tempo do intervalo foi respeitado e houve um acréscimo de 2 minutos ao primeiro tempo do jogo.\n\nO tempo transcorrido entre os dois gols foi de",
+          "alternatives": {
+            "a": "54 minutos e 47 segundos.",
+            "b": "53 minutos e 47 segundos.",
+            "c": "51 minutos e 47 segundos.",
+            "d": "38 minutos e 47 segundos.",
+            "e": "36 minutos e 47 segundos."
+          },
+          "answer": "b"
+        },
+        {
+          "number": "07",
+          "prova": "ENEM PPL 2020",
+          "probabilidade": "22.6",
+          "enunciado": "Dois atletas partem de pontos, respectivamente [imagem-questao-07-1] e [imagem-questao-07-2] em duas pistas planas distintas, conforme a figura, deslocando-se no sentido anti-horário até a linha de chegada, percorrendo, desta forma, a mesma distância (L). Os trechos retos dos finais das curvas até a linha de chegada desse percurso têm o mesmo comprimento (l) nas duas pistas e são tangentes aos trechos curvos, que são semicírculos de centro C. O raio do semicírculo maior é [imagem-questao-07-3] e o raio do semicírculo menor é [imagem-questao-07-4]\n\n[imagem-questao-07-5]\n\nSabe-se que o comprimento de um arco circular é dado pelo produto do seu raio pelo ângulo, medido em radiano, subentendido pelo arco.\n\nNas condições apresentadas, a razão da medida do ângulo [imagem-questao-07-6] pela diferença [imagem-questao-07-7] é dada por",
+          "alternatives": {
+            "a": "[imagem-questao-07-8]",
+            "b": "[imagem-questao-07-9]",
+            "c": "[imagem-questao-07-10]",
+            "d": "[imagem-questao-07-11]",
+            "e": "[imagem-questao-07-12]"
+          },
+          "answer": "c"
+        },
+        {
+          "number": "08",
+          "prova": "ENEM PPL 2020",
+          "probabilidade": "13.0",
+          "enunciado": "Para identificar visualmente uma loja de pet shop, um empresário criou uma logomarca que se assemelha a uma marca deixada pela pegada de um gato, como na figura. O maior círculo tem medida de raio igual a [imagem-questao-08-1]\n\nO empresário pretende reproduzir o desenho em uma das paredes retangulares da loja. Para isso, fará a ampliação da logomarca utilizando a escala de 1:25.\n\n[imagem-questao-08-2]\n\nA área mínima, em metro quadrado, que a parede deverá ter para que a logomarca seja aplicada é",
+          "alternatives": {
+            "a": "2,25.",
+            "b": "6,00.",
+            "c": "7,06.",
+            "d": "9,00.",
+            "e": "36,00."
+          },
+          "answer": "d"
+        },
+        {
+          "number": "09",
+          "prova": "ENEM PPL 2020",
+          "probabilidade": "14.0",
+          "enunciado": "Projetado pelo arquiteto Oscar Niemeyer, o Museu de Arte Contemporânea (MAC) tornou-se um dos cartões-postais da cidade de Niterói (Figura 1).\n\n[imagem-questao-09-1]\n\nConsidere que a forma da cúpula do MAC seja a de um tronco de cone circular reto (Figura 2), cujo diâmetro da base maior mede [imagem-questao-09-2] e [imagem-questao-09-3] é a distância entre as duas bases. A administração do museu deseja fazer uma reforma revitalizando o piso de seu pátio e, para isso, precisa estimar a sua área. (Utilize 1,7 como valor aproximado para [imagem-questao-09-4] e 3 para [imagem-questao-09-5]\n\n[imagem-questao-09-6]\n\nA medida da área do pátio do museu a ser revitalizada, em metro quadrado, está no intervalo",
+          "alternatives": {
+            "a": "\\[100, 200\\]",
+            "b": "\\[300, 400\\]",
+            "c": "\\[600, 700\\]",
+            "d": "\\[900, 1.000\\]",
+            "e": "\\[1.000, 1.100\\]"
+          },
+          "answer": "d"
+        },
+        {
+          "number": "10",
+          "prova": "ENEM PPL 2020",
+          "probabilidade": "12.3",
+          "enunciado": "Um imposto é dito cumulativo se incide em duas ou mais etapas da circulação de mercadorias, sem que na etapa posterior possa ser abatido o montante pago na etapa anterior. PIS e Cofins são exemplos de impostos cumulativos e correspondem a um percentual total de 3,65%, que incide em cada etapa da comercialização de um produto.\n\nConsidere um produto com preço inicial C. Suponha que ele é revendido para uma loja pelo preço inicial acrescido dos impostos descritos. Em seguida, o produto é revendido por essa loja ao consumidor pelo valor pago acrescido novamente dos mesmos impostos.\n\nDisponível em: www.centraltributaria.com.br. Acesso em: 15 jul. 2015 (adaptado).\n\nQual a expressão algébrica que corresponde ao valor pago em impostos pelo consumidor?",
+          "alternatives": {
+            "a": "[imagem-questao-10-1]",
+            "b": "[imagem-questao-10-2]",
+            "c": "[imagem-questao-10-3]",
+            "d": "[imagem-questao-10-4]",
+            "e": "[imagem-questao-10-5]"
+          },
+          "answer": "e"
+        },
+        {
+          "number": "11",
+          "prova": "ENEM PPL 2020",
+          "probabilidade": "16.2",
+          "enunciado": "Um determinado campeonato de futebol, composto por 20 times, é disputado no sistema de pontos corridos. Nesse sistema, cada time joga contra todos os demais times em dois turnos, isto é, cada time joga duas partidas com cada um dos outros times, sendo que cada jogo pode terminar empatado ou haver um vencedor.\n\nSabendo-se que, nesse campeonato, ocorreram 126 empates, o número de jogos em que houve ganhador é igual a",
+          "alternatives": {
+            "a": "64.",
+            "b": "74.",
+            "c": "254.",
+            "d": "274.",
+            "e": "634."
+          },
+          "answer": "c"
+        },
+        {
+          "number": "12",
+          "prova": "ENEM REGULAR 2019",
+          "probabilidade": "16.2",
+          "enunciado": "Em um jogo on-line, cada jogador procura subir de nível e aumentar sua experiência, que são dois parâmetros importantes no jogo, dos quais dependem as forças de defesa e de ataque do participante. A força de defesa de cada jogador é diretamente proporcional ao seu nível e ao quadrado de sua experiência, enquanto sua força de ataque é diretamente proporcional à sua experiência e ao quadrado do seu nível. Nenhum jogador sabe o nível ou a experiência dos demais. Os jogadores iniciam o jogo no nível 1 com experiência 1 e possuem força de ataque 2 e de defesa 1. Nesse jogo, cada participante se movimenta em uma cidade em busca de tesouros para aumentar sua experiência. Quando dois deles se encontram, um deles pode desafiar o outro para um confronto, sendo o desafiante considerado o atacante. Compara-se então a força de ataque do desafiante com a força de defesa do desafiado e vence o confronto aquele cuja força for maior. O vencedor do desafio aumenta seu nível em uma unidade. Caso haja empate no confronto, ambos os jogadores aumentam seus níveis em uma unidade.\n\nDurante um jogo, o jogador [imagem-questao-12-1] de nível 4 e experiência 5, irá atacar o jogador [imagem-questao-12-2] de nível 2 e experiência 6.\n\nO jogador [imagem-questao-12-3] venceu esse confronto porque a diferença entre sua força de ataque e a força de defesa de seu oponente era",
+          "alternatives": {
+            "a": "[imagem-questao-12-4]",
+            "b": "[imagem-questao-12-5]",
+            "c": "[imagem-questao-12-6]",
+            "d": "[imagem-questao-12-7]",
+            "e": "[imagem-questao-12-8]"
+          },
+          "answer": "b"
+        },
+        {
+          "number": "13",
+          "prova": "ENEM REGULAR 2019",
+          "probabilidade": "14.3",
+          "enunciado": "Três sócios resolveram fundar uma fábrica. O investimento inicial foi de [imagem-questao-13-1] E, independentemente do valor que cada um investiu nesse primeiro momento, resolveram considerar que cada um deles contribuiu com um terço do investimento inicial.\n\nAlgum tempo depois, um quarto sócio entrou para a sociedade, e os quatro, juntos, investiram mais [imagem-questao-13-2] na fábrica. Cada um deles contribuiu com um quarto desse valor. Quando venderam a fábrica, nenhum outro investimento havia sido feito. Os sócios decidiram então dividir o montante de [imagem-questao-13-3] obtido com a venda, de modo proporcional à quantia total investida por cada sócio.\n\nQuais os valores mais próximos, em porcentagens, correspondentes às parcelas financeiras que cada um dos três sócios iniciais e o quarto sócio, respectivamente, receberam?",
+          "alternatives": {
+            "a": "[imagem-questao-13-4] e [imagem-questao-13-5]",
+            "b": "[imagem-questao-13-6] e [imagem-questao-13-7]",
+            "c": "[imagem-questao-13-8] e [imagem-questao-13-9]",
+            "d": "[imagem-questao-13-10] e [imagem-questao-13-11]",
+            "e": "[imagem-questao-13-12] e [imagem-questao-13-13]"
+          },
+          "answer": "a"
+        },
+        {
+          "number": "14",
+          "prova": "ENEM REGULAR 2019",
+          "probabilidade": "36.5",
+          "enunciado": "Construir figuras de diversos tipos, apenas dobrando e cortando papel, sem cola e sem tesoura, é a arte do _origami_ (_ori_ = dobrar; _kami_ = papel), que tem um significado altamente simbólico no Japão. A base do _origami_ é o conhecimento do mundo por base do tato. Uma jovem resolveu construir um cisne usando técnica do _origami_, utilizando uma folha de papel de [imagem-questao-14-1] por [imagem-questao-14-2] Assim, começou por dobrar a folha conforme a figura.\n\n[imagem-questao-14-3]\n\nApós essa primeira dobradura, a medida do segmento [imagem-questao-14-4] é",
+          "alternatives": {
+            "a": "[imagem-questao-14-5]",
+            "b": "[imagem-questao-14-6]",
+            "c": "[imagem-questao-14-7]",
+            "d": "[imagem-questao-14-8]",
+            "e": "[imagem-questao-14-9]"
+          },
+          "answer": "d"
+        },
+        {
+          "number": "15",
+          "prova": "ENEM REGULAR 2019",
+          "probabilidade": "6.8",
+          "enunciado": "Os alunos de uma turma escolar foram divididos em dois grupos. Um grupo jogaria basquete, enquanto o outro jogaria futebol. Sabe-se que o grupo de basquete é formado pelos alunos mais altos da classe e tem uma pessoa a mais do que o grupo de futebol. A tabela seguinte apresenta informações sobre as alturas dos alunos da turma.\n\n**Média**\n\n**Mediana**\n\n**Moda**\n\n[imagem-questao-15-1]\n\n[imagem-questao-15-2]\n\n[imagem-questao-15-3]\n\nOs alunos [imagem-questao-15-4] e [imagem-questao-15-5] medem, respectivamente, [imagem-questao-15-6] e [imagem-questao-15-7] e as suas alturas não são iguais a de nenhum outro colega da sala.\n\nSegundo essas informações, argumenta-se que os alunos [imagem-questao-15-8] e [imagem-questao-15-9] jogaram, respectivamente,",
+          "alternatives": {
+            "a": "basquete, basquete, basquete, basquete.",
+            "b": "futebol, basquete, basquete, basquete.",
+            "c": "futebol, futebol, basquete, basquete.",
+            "d": "futebol, futebol, futebol, basquete.",
+            "e": "futebol, futebol, futebol, futebol."
+          },
+          "answer": "c"
+        }
+      ],
+      "gabarito": {
+        "10": "e",
+        "11": "c",
+        "12": "b",
+        "13": "a",
+        "14": "d",
+        "15": "c",
+        "01": "c",
+        "02": "c",
+        "03": "d",
+        "04": "c",
+        "05": "e",
+        "06": "b",
+        "07": "c",
+        "08": "d",
+        "09": "d"
+      }
+    },
+    {
+      "nome": "LISTA 04",
+      "proficiencia": "750 a 1000 pontos",
+      "questoes": [
+        {
+          "number": "01",
+          "prova": "ENEM REGULAR 2019",
+          "probabilidade": "14.7",
+          "enunciado": "O gráfico a seguir mostra a evolução mensal das vendas de certo produto de julho a novembro de 2011.\n\n[imagem-questao-01-1]\n\nSabe-se que o mês de julho foi o pior momento da empresa em 2011 e que o número de unidades vendidas desse produto em dezembro de 2011 foi igual à média aritmética do número de unidades vendidas nos meses de julho a novembro do mesmo ano.\n\nO gerente de vendas disse, em uma reunião da diretoria, que, se essa redução no número de unidades vendidas de novembro para dezembro de 2011 se mantivesse constante nos meses subsequentes, as vendas só voltariam a ficar piores que julho de 2011 apenas no final de 2012.\n\nO diretor financeiro rebateu imediatamente esse argumento mostrando que, mantida a tendência, isso aconteceria já em",
+          "alternatives": {
+            "a": "janeiro.",
+            "b": "fevereiro.",
+            "c": "março.",
+            "d": "abril.",
+            "e": "maio."
+          },
+          "answer": "d"
+        },
+        {
+          "number": "02",
+          "prova": "ENEM REGULAR 2019",
+          "probabilidade": "11.6",
+          "enunciado": "Para construir uma piscina, cuja área total da superfície interna é igual a [imagem-questao-02-1] uma construtora apresentou o seguinte orçamento:\n\n*   [imagem-questao-02-2] pela elaboração do projeto;\n*   [imagem-questao-02-3] pelos custos fixos;\n*   [imagem-questao-02-4] por metro quadrado para construção da área interna da piscina.\n\nApós a apresentação do orçamento, essa empresa decidiu reduzir o valor de elaboração do projeto em [imagem-questao-02-5] mas recalculou o valor do metro quadrado para a construção da área interna da piscina, concluindo haver a necessidade de aumentá-lo em [imagem-questao-02-6] Além disso, a construtora pretende dar um desconto nos custos fixos, de maneira que o novo valor do orçamento seja reduzido em [imagem-questao-02-7] em relação ao total inicial.\n\nO percentual de desconto que a construtora deverá conceder nos custos fixos é de",
+          "alternatives": {
+            "a": "[imagem-questao-02-8]",
+            "b": "[imagem-questao-02-9]",
+            "c": "[imagem-questao-02-10]",
+            "d": "[imagem-questao-02-11]",
+            "e": "[imagem-questao-02-12]"
+          },
+          "answer": "d"
+        },
+        {
+          "number": "03",
+          "prova": "ENEM REGULAR 2019",
+          "probabilidade": "19.8",
+          "enunciado": "Após o Fórum Nacional Contra a Pirataria (FNCP) incluir a linha de autopeças em campanha veiculada contra a falsificação, as agências fiscalizadoras divulgaram que os cinco principais produtos de autopeças falsificados são: rolamento, pastilha de freio, caixa de direção, catalisador e amortecedor.\n\nDisponível em: www.oficinabrasil.com.br.\n\nAcesso em: 25 ago. 2014 (adaptado).\n\nApós uma grande apreensão, as peças falsas foram cadastradas utilizando-se a codificação:\n\n[imagem-questao-03-1] rolamento, [imagem-questao-03-2] pastilha de freio, [imagem-questao-03-3] caixa de direção, [imagem-questao-03-4] catalisador e [imagem-questao-03-5] amortecedor.\n\nAo final obteve-se a sequência: [imagem-questao-03-6] que apresenta um padrão de formação que consiste na repetição de um bloco de números. Essa sequência descreve a ordem em que os produtos apreendidos foram cadastrados.\n\nO 2015º item cadastrado foi um(a)",
+          "alternatives": {
+            "a": "rolamento.",
+            "b": "catalisador.",
+            "c": "amortecedor.",
+            "d": "pastilha de freio",
+            "e": "caixa de direção."
+          },
+          "answer": "e"
+        },
+        {
+          "number": "04",
+          "prova": "ENEM REGULAR 2019",
+          "probabilidade": "15.9",
+          "enunciado": "Durante suas férias, oito amigos, dos quais dois são canhotos, decidem realizar um torneio de vôlei de praia. Eles precisam formar quatro duplas para a realização do torneio. Nenhuma dupla pode ser formada por dois jogadores canhotos.\n\nDe quantas maneiras diferentes podem ser formadas essas quatro duplas?",
+          "alternatives": {
+            "a": "[imagem-questao-04-1]",
+            "b": "[imagem-questao-04-2]",
+            "c": "[imagem-questao-04-3]",
+            "d": "[imagem-questao-04-4]",
+            "e": "[imagem-questao-04-5]"
+          },
+          "answer": "c"
+        },
+        {
+          "number": "05",
+          "prova": "ENEM REGULAR 2019",
+          "probabilidade": "11.8",
+          "enunciado": "Uma empresa presta serviço de abastecimento de água em uma cidade. O valor mensal a pagar por esse serviço é determinado pela aplicação de tarifas, por faixas de consumo de água, sendo obtido pela adição dos valores correspondentes a cada faixa.\n\n\\- Faixa 1: para consumo de até [imagem-questao-05-1] valor fixo de [imagem-questao-05-2]\n\n\\- Faixa 2: para consumo superior a [imagem-questao-05-3] até [imagem-questao-05-4] tarifa de [imagem-questao-05-5] por metro cúbico ao que exceder a [imagem-questao-05-6]\n\n\\- Faixa 3: para consumo superior a [imagem-questao-05-7] tarifa de [imagem-questao-05-8] por metro cúbico ao que exceder a [imagem-questao-05-9] Sabe-se que nessa cidade o consumo máximo de água por residência é de [imagem-questao-05-10] por mês.\n\nO gráfico que melhor descreve o valor [imagem-questao-05-11] em real, a ser pago por mês, em função do volume [imagem-questao-05-12] de água consumido, em metro cúbico, é",
+          "alternatives": {
+            "a": "[imagem-questao-05-13] b) [imagem-questao-05-14]",
+            "c": "[imagem-questao-05-15] d) [imagem-questao-05-16]",
+            "e": "[imagem-questao-05-17]"
+          },
+          "answer": "a"
+        },
+        {
+          "number": "06",
+          "prova": "ENEM REGULAR 2019",
+          "probabilidade": "16.1",
+          "enunciado": "A taxa de urbanização de um município é dada pela razão entre a população urbana e a população total do município (isto é, a soma das populações rural e urbana). Os gráficos apresentam, respectivamente, a população urbana e a população rural de cinco municípios (I, II, III, IV, V) de uma mesma região estadual. Em reunião entre o governo do estado e os prefeitos desses municípios, ficou acordado que o município com maior taxa de urbanização receberá um investimento extra em infraestrutura.\n\n[imagem-questao-06-1]\n\nSegundo o acordo, qual município receberá o investimento extra?",
+          "alternatives": {
+            "a": "I",
+            "b": "II",
+            "c": "III",
+            "d": "IV",
+            "e": "V"
+          },
+          "answer": "c"
+        },
+        {
+          "number": "07",
+          "prova": "ENEM REGULAR 2019",
+          "probabilidade": "12.6",
+          "enunciado": "Um comerciante, que vende somente pastel, refrigerante em lata e caldo de cana em copos, fez um levantamento das vendas realizadas durante a semana. O resultado desse levantamento está apresentado no gráfico.\n\n[imagem-questao-07-1]\n\nEle estima que venderá, em cada dia da próxima semana, uma quantidade de refrigerante em lata igual à soma das quantidades de refrigerante em lata e caldo de cana em copos vendidas no respectivo dia da última semana. Quanto aos pastéis, estima vender, a cada dia da próxima semana, uma quantidade igual à quantidade de refrigerante em lata que prevê vender em tal dia. Já para o número de caldo de cana em copos, estima que as vendas diárias serão iguais às da última semana.\n\nSegundo essas estimativas, a quantidade a mais de pastéis que esse comerciante deve vender na próxima semana é",
+          "alternatives": {
+            "a": "[imagem-questao-07-2]",
+            "b": "[imagem-questao-07-3]",
+            "c": "[imagem-questao-07-4]",
+            "d": "[imagem-questao-07-5]",
+            "e": "[imagem-questao-07-6]"
+          },
+          "answer": "b"
+        },
+        {
+          "number": "08",
+          "prova": "ENEM PPL 2019",
+          "probabilidade": "13.2",
+          "enunciado": "Um fiscal de certa empresa de ônibus registra o tempo, em minuto, que um motorista novato gasta para completar certo percurso. No Quadro 1 figuram os tempos gastos pelo motorista ao realizar o mesmo percurso sete vezes. O Quadro 2 apresenta uma classificação para a variabilidade do tempo, segundo o valor do desvio padrão.\n\n**Quadro 1**\n\n**Tempos**\n\n**(em minuto)**\n\n[imagem-questao-08-1]\n\n[imagem-questao-08-2]\n\n[imagem-questao-08-3]\n\n[imagem-questao-08-4]\n\n[imagem-questao-08-5]\n\n[imagem-questao-08-6]\n\n[imagem-questao-08-7]\n\n**Quadro 2**\n\n**Variabilidade**\n\n**Desvio padrão do**\n\n**tempo (min)**\n\n**Extremamente baixa**\n\n[imagem-questao-08-8]\n\n**Baixa**\n\n[imagem-questao-08-9]\n\n**Moderada**\n\n[imagem-questao-08-10]\n\n**Alta**\n\n[imagem-questao-08-11]\n\n**Extremamente alta**\n\n[imagem-questao-08-12]\n\nCom base nas informações apresentadas nos quadros, a variabilidade do tempo é",
+          "alternatives": {
+            "a": "extremamente baixa.",
+            "b": "baixa.",
+            "c": "moderada.",
+            "d": "alta.",
+            "e": "extremamente alta."
+          },
+          "answer": "b"
+        },
+        {
+          "number": "09",
+          "prova": "ENEM PPL 2019",
+          "probabilidade": "13.5",
+          "enunciado": "Um vidraceiro é contratado para colocar uma porta de vidro que escorregará em uma canaleta de largura interna igual a [imagem-questao-09-1] como mostra a figura.\n\n[imagem-questao-09-2]\n\nO vidraceiro precisa de uma placa de vidro de maior espessura possível, tal que deixe uma folga total de pelo menos [imagem-questao-09-3] para que o vidro possa escorregar na canaleta, e no máximo [imagem-questao-09-4] para que o vidro não fique batendo com a interferência do vento após a instalação. Para conseguir essa placa de vidro, esse vidraceiro foi até uma loja e lá encontrou placas de vidro com espessuras iguais a: [imagem-questao-09-5]\n\nPara atender às restrições especificadas, o vidraceiro deverá comprar a placa de espessura, em centímetro, igual a",
+          "alternatives": {
+            "a": "[imagem-questao-09-6]",
+            "b": "[imagem-questao-09-7]",
+            "c": "[imagem-questao-09-8]",
+            "d": "[imagem-questao-09-9]",
+            "e": "[imagem-questao-09-10]"
+          },
+          "answer": "d"
+        },
+        {
+          "number": "10",
+          "prova": "ENEM PPL 2019",
+          "probabilidade": "18.7",
+          "enunciado": "Uma pista circular delimitada por duas circunferências concêntricas foi construída. Na circunferência interna dessa pista, de raio [imagem-questao-10-1] serão colocados aparelhos de ginástica localizados nos pontos [imagem-questao-10-2] e [imagem-questao-10-3] conforme a figura.\n\n[imagem-questao-10-4]\n\nO segmento [imagem-questao-10-5] é um diâmetro dessa circunferência interna, e o ângulo [imagem-questao-10-6] tem medida igual a [imagem-questao-10-7] radianos.\n\nPara uma pessoa ir do ponto [imagem-questao-10-8] ao ponto [imagem-questao-10-9] andando pela circunferência interna no sentido anti-horário, ela percorrerá uma distância, em quilômetro, igual a",
+          "alternatives": {
+            "a": "[imagem-questao-10-10]",
+            "b": "[imagem-questao-10-11]",
+            "c": "[imagem-questao-10-12]",
+            "d": "[imagem-questao-10-13]",
+            "e": "[imagem-questao-10-14]"
+          },
+          "answer": "d"
+        },
+        {
+          "number": "11",
+          "prova": "ENEM PPL 2019",
+          "probabilidade": "19.6",
+          "enunciado": "Uma pessoa fez um depósito inicial de [imagem-questao-11-1] em um Fundo de Investimentos que possui rendimento constante sob juros compostos de [imagem-questao-11-2] ao mês. Esse Fundo possui cinco planos de carência (tempo mínimo necessário de rendimento do Fundo sem movimentação do cliente). Os planos são:\n\n\\- Plano A: carência de [imagem-questao-11-3] meses;\n\n\\- Plano B: carência de [imagem-questao-11-4] meses;\n\n\\- Plano C: carência de [imagem-questao-11-5] meses;\n\n\\- Plano D: carência de [imagem-questao-11-6] meses;\n\n\\- Plano E: carência de [imagem-questao-11-7] meses.\n\nO objetivo dessa pessoa é deixar essa aplicação rendendo até que o valor inicialmente aplicado duplique, quando somado aos juros do fundo. Considere as aproximações: [imagem-questao-11-8] e [imagem-questao-11-9]\n\nPara que essa pessoa atinja seu objetivo apenas no período de carência, mas com a menor carência possível, deverá optar pelo plano",
+          "alternatives": {
+            "a": "A.",
+            "b": "B.",
+            "c": "C.",
+            "d": "D.",
+            "e": "E."
+          },
+          "answer": "b"
+        },
+        {
+          "number": "12",
+          "prova": "ENEM PPL 2019",
+          "probabilidade": "8.6",
+          "enunciado": "Um jardineiro cultiva plantas ornamentais e as coloca à venda quando estas atingem [imagem-questao-12-1] centímetros de altura. Esse jardineiro estudou o crescimento de suas plantas, em função do tempo, e deduziu uma fórmula que calcula a altura em função do tempo, a partir do momento em que a planta brota do solo até o momento em que ela atinge sua altura máxima de [imagem-questao-12-2] centímetros. A fórmula é [imagem-questao-12-3] em que [imagem-questao-12-4] é o tempo contado em dia e [imagem-questao-12-5] a altura da planta em centímetro.\n\nA partir do momento em que uma dessas plantas é colocada à venda, em quanto tempo, em dia, ela alcançará sua altura máxima?",
+          "alternatives": {
+            "a": "[imagem-questao-12-6]",
+            "b": "[imagem-questao-12-7]",
+            "c": "[imagem-questao-12-8]",
+            "d": "[imagem-questao-12-9]",
+            "e": "[imagem-questao-12-10]"
+          },
+          "answer": "d"
+        },
+        {
+          "number": "13",
+          "prova": "ENEM PPL 2019",
+          "probabilidade": "15.5",
+          "enunciado": "Um pintor cobra [imagem-questao-13-1] por dia de trabalho, que equivale a [imagem-questao-13-2] horas de trabalho num dia. Quando é chamado para um serviço, esse pintor trabalha [imagem-questao-13-3] horas por dia com exceção, talvez, do seu último dia nesse serviço. Nesse último dia, caso trabalhe até [imagem-questao-13-4] horas, ele cobra metade do valor de um dia de trabalho. Caso trabalhe mais de [imagem-questao-13-5] horas, cobra o valor correspondente a um dia de trabalho. Esse pintor gasta [imagem-questao-13-6] horas para pintar uma vez uma área de [imagem-questao-13-7] Um cliente deseja pintar as paredes de sua casa, com uma área total de [imagem-questao-13-8] Ele quer que essa área seja pintada o maior número possível de vezes para que a qualidade da pintura seja a melhor possível. O orçamento desse cliente para a pintura é de [imagem-questao-13-9]\n\nQuantas vezes, no máximo, as paredes da casa poderão ser pintadas com o orçamento do cliente?",
+          "alternatives": {
+            "a": "[imagem-questao-13-10]",
+            "b": "[imagem-questao-13-11]",
+            "c": "[imagem-questao-13-12]",
+            "d": "[imagem-questao-13-13]",
+            "e": "[imagem-questao-13-14]"
+          },
+          "answer": "b"
+        },
+        {
+          "number": "14",
+          "prova": "ENEM PPL 2019",
+          "probabilidade": "5.1",
+          "enunciado": "O boliche é um esporte cujo objetivo é derrubar, com uma bola, uma série de pinos alinhados em uma pista. A professora de matemática organizou um jogo de boliche em que os pinos são garrafas que possuem rótulos com números, conforme mostra o esquema.\n\n[imagem-questao-14-1]\n\nO aluno marca pontos de acordo com a soma das quantidades expressas nos rótulos das garrafas que são derrubadas. Se dois ou mais rótulos representam a mesma quantidade, apenas um deles entra na contagem dos pontos. Um aluno marcou [imagem-questao-14-2] pontos em uma jogada. Uma das garrafas que ele derrubou tinha o rótulo [imagem-questao-14-3]\n\nA quantidade máxima de garrafas que ele derrubou para obter essa pontuação é igual a",
+          "alternatives": {
+            "a": "[imagem-questao-14-4]",
+            "b": "[imagem-questao-14-5]",
+            "c": "[imagem-questao-14-6]",
+            "d": "[imagem-questao-14-7]",
+            "e": "[imagem-questao-14-8]"
+          },
+          "answer": "e"
+        },
+        {
+          "number": "15",
+          "prova": "ENEM REGULAR 2018",
+          "probabilidade": "14.2",
+          "enunciado": "Sobre um sistema cartesiano considera-se uma malha formada por circunferências de raios com medidas dadas por números naturais e por [imagem-questao-15-1] semirretas com extremidades na origem, separadas por ângulos de [imagem-questao-15-2] conforme a figura.\n\n[imagem-questao-15-3]\n\nSuponha que os objetos se desloquem apenas pelas semirretas e pelas circunferências dessa malha, não podendo passar pela origem [imagem-questao-15-4]\n\nConsidere o valor de [imagem-questao-15-5] com aproximação de, pelo menos, uma casa decimal.\n\nPara realizar o percurso mais curto possível ao longo da malha, do ponto [imagem-questao-15-6] até o ponto [imagem-questao-15-7] um objeto deve percorrer uma distância igual a",
+          "alternatives": {
+            "a": "[imagem-questao-15-8]",
+            "b": "[imagem-questao-15-9]",
+            "c": "[imagem-questao-15-10]",
+            "d": "[imagem-questao-15-11]",
+            "e": "[imagem-questao-15-12]"
+          },
+          "answer": "a"
+        }
+      ],
+      "gabarito": {
+        "10": "d",
+        "11": "b",
+        "12": "d",
+        "13": "b",
+        "14": "e",
+        "15": "a",
+        "01": "d",
+        "02": "d",
+        "03": "e",
+        "04": "c",
+        "05": "a",
+        "06": "c",
+        "07": "b",
+        "08": "b",
+        "09": "d"
+      }
+    },
+    {
+      "nome": "LISTA 05",
+      "proficiencia": "750 a 1000 pontos",
+      "questoes": [
+        {
+          "number": "01",
+          "prova": "ENEM REGULAR 2018",
+          "probabilidade": "22.8",
+          "enunciado": "A prefeitura de um pequeno município do interior decide colocar postes para iluminação ao longo de uma estrada retilínea, que inicia em uma praça central e termina numa fazenda na zona rural. Como a praça já possui iluminação, o primeiro poste será colocado a [imagem-questao-01-1] metros da praça, o segundo, a [imagem-questao-01-2] metros, o terceiro, a [imagem-questao-01-3] metros, e assim sucessivamente, mantendo-se sempre uma distância de vinte metros entre os postes, até que o último poste seja colocado a uma distância de [imagem-questao-01-4] metros da praça.\n\nSe a prefeitura pode pagar, no máximo, [imagem-questao-01-5] por poste colocado, o maior valor que poderá gastar com a colocação desses postes é",
+          "alternatives": {
+            "a": "[imagem-questao-01-6]",
+            "b": "[imagem-questao-01-7]",
+            "c": "[imagem-questao-01-8]",
+            "d": "[imagem-questao-01-9]",
+            "e": "[imagem-questao-01-10]"
+          },
+          "answer": "c"
+        },
+        {
+          "number": "02",
+          "prova": "ENEM REGULAR 2018",
+          "probabilidade": "16.7",
+          "enunciado": "Um contrato de empréstimo prevê que quando uma parcela é paga de forma antecipada, conceder-se-á uma redução de juros de acordo com o período de antecipação. Nesse caso, paga-se o valor presente, que é o valor, naquele momento, de uma quantia que deveria ser paga em uma data futura. Um valor presente [imagem-questao-02-1] submetido a juros compostos com taxa [imagem-questao-02-2] por um período de tempo [imagem-questao-02-3] produz um valor futuro [imagem-questao-02-4] determinado pela fórmula\n\n[imagem-questao-02-5]\n\nEm um contrato de empréstimo com sessenta parcelas fixas mensais, de [imagem-questao-02-6] a uma taxa de juros de [imagem-questao-02-7] ao mês, junto com a trigésima parcela será paga antecipadamente uma outra parcela, desde que o desconto seja superior a [imagem-questao-02-8] do valor da parcela.\n\nUtilize [imagem-questao-02-9] como aproximação para [imagem-questao-02-10] e [imagem-questao-02-11] como aproximação para [imagem-questao-02-12]\n\nA primeira das parcelas que poderá ser antecipada junto com a 30ª é a",
+          "alternatives": {
+            "a": "56ª",
+            "b": "55ª",
+            "c": "52ª",
+            "d": "51ª",
+            "e": "45ª"
+          },
+          "answer": "c"
+        },
+        {
+          "number": "03",
+          "prova": "ENEM REGULAR 2018",
+          "probabilidade": "17.2",
+          "enunciado": "Um jogo pedagógico utiliza-se de uma interface algébrico-geométrica do seguinte modo: os alunos devem eliminar os pontos do plano cartesiano dando \"tiros\", seguindo trajetórias que devem passar pelos pontos escolhidos. Para dar os tiros, o aluno deve escrever em uma janela do programa a equação cartesiana de uma reta ou de uma circunferência que passa pelos pontos e pela origem do sistema de coordenadas. Se o tiro for dado por meio da equação da circunferência, cada ponto diferente da origem que for atingido vale [imagem-questao-03-1] pontos. Se o tiro for dado por meio da equação de uma reta, cada ponto diferente da origem que for atingido vale [imagem-questao-03-2] ponto. Em uma situação de jogo, ainda restam os seguintes pontos para serem eliminados: [imagem-questao-03-3] e [imagem-questao-03-4]\n\n[imagem-questao-03-5]\n\nPassando pelo ponto [imagem-questao-03-6] qual a equação forneceria a maior pontuação?",
+          "alternatives": {
+            "a": "[imagem-questao-03-7]",
+            "b": "[imagem-questao-03-8]",
+            "c": "[imagem-questao-03-9]",
+            "d": "[imagem-questao-03-10]",
+            "e": "[imagem-questao-03-11]"
+          },
+          "answer": "e"
+        },
+        {
+          "number": "04",
+          "prova": "ENEM REGULAR 2018",
+          "probabilidade": "18.5",
+          "enunciado": "Durante uma festa de colégio, um grupo de alunos organizou uma rifa. Oitenta alunos faltaram à festa e não participaram da rifa. Entre os que compareceram, alguns compraram três bilhetes, [imagem-questao-04-1] compraram [imagem-questao-04-2] bilhetes, e muitos compraram apenas um. O total de alunos que comprou um único bilhete era [imagem-questao-04-3] do número total de bilhetes vendidos, e o total de bilhetes vendidos excedeu em [imagem-questao-04-4] o número total de alunos do colégio.\n\nQuantos alunos compraram somente um bilhete?",
+          "alternatives": {
+            "a": "[imagem-questao-04-5]",
+            "b": "[imagem-questao-04-6]",
+            "c": "[imagem-questao-04-7]",
+            "d": "[imagem-questao-04-8]",
+            "e": "[imagem-questao-04-9]"
+          },
+          "answer": "d"
+        },
+        {
+          "number": "05",
+          "prova": "ENEM REGULAR 2018",
+          "probabilidade": "2.1",
+          "enunciado": "Para decorar um cilindro circular reto será usada uma faixa retangular de papel transparente, na qual está desenhada em negrito uma diagonal que forma [imagem-questao-05-1] com a borda inferior. O raio da base do cilindro mede [imagem-questao-05-2] e ao enrolar a faixa obtém-se uma linha em formato de hélice, como na figura.\n\n[imagem-questao-05-3]\n\nO valor da medida da altura do cilindro, em centímetro, é",
+          "alternatives": {
+            "a": "[imagem-questao-05-4]",
+            "b": "[imagem-questao-05-5]",
+            "c": "[imagem-questao-05-6]",
+            "d": "[imagem-questao-05-7]",
+            "e": "[imagem-questao-05-8]"
+          },
+          "answer": "b"
+        },
+        {
+          "number": "06",
+          "prova": "ENEM REGULAR 2018",
+          "probabilidade": "2.6",
+          "enunciado": "Para ganhar um prêmio, uma pessoa deverá retirar, sucessivamente e sem reposição, duas bolas pretas de uma mesma urna.\n\nInicialmente, as quantidades e cores das bolas são como descritas a seguir:\n\n\\- Urna A – Possui três bolas brancas, duas bolas pretas e uma bola verde;\n\n\\- Urna B – Possui seis bolas brancas, três bolas pretas e uma bola verde;\n\n\\- Urna C – Possui duas bolas pretas e duas bolas verdes;\n\n\\- Urna D – Possui três bolas brancas e três bolas pretas.\n\nA pessoa deve escolher uma entre as cinco opções apresentadas:\n\n\\- Opção 1 – Retirar, aleatoriamente, duas bolas da urna A;\n\n\\- Opção 2 – Retirar, aleatoriamente, duas bolas da urna B;\n\n\\- Opção 3 – Passar, aleatoriamente, uma bola da urna C para a urna A; após isso, retirar, aleatoriamente, duas bolas da urna A;\n\n\\- Opção 4 – Passar, aleatoriamente, uma bola da urna D para a urna C; após isso, retirar, aleatoriamente, duas bolas da urna C;\n\n\\- Opção 5 – Passar, aleatoriamente, uma bola da urna C para a urna D; após isso, retirar, aleatoriamente, duas bolas da urna D.\n\nCom o objetivo de obter a maior probabilidade possível de ganhar o prêmio, a pessoa deve escolher a opção",
+          "alternatives": {
+            "a": "1.",
+            "b": "2.",
+            "c": "3.",
+            "d": "4.",
+            "e": "5."
+          },
+          "answer": "e"
+        },
+        {
+          "number": "07",
+          "prova": "ENEM REGULAR 2018",
+          "probabilidade": "28.7",
+          "enunciado": "A Ecofont possui _design_ baseado na velha fonte Vera Sans. Porém, ela tem um diferencial: pequenos buraquinhos circulares congruentes, e em todo o seu corpo, presentes em cada símbolo. Esses furos proporcionam um gasto de tinta menor na hora da impressão.\n\n[imagem-questao-07-1]\n\nSuponha que a palavra ECO esteja escrita nessa fonte, com tamanho [imagem-questao-07-2] e que seja composta por letras formadas por quadrados de lados [imagem-questao-07-3] com furos circulares de raio [imagem-questao-07-4] Para que a área a ser pintada seja reduzida a [imagem-questao-07-5] da área inicial, pretende-se reduzir o tamanho da fonte. Sabe-se que, ao alterar o tamanho da fonte, o tamanho da letra é alterado na mesma proporção.\n\nNessas condições, o tamanho adequado da fonte será",
+          "alternatives": {
+            "a": "[imagem-questao-07-6]",
+            "b": "[imagem-questao-07-7]",
+            "c": "[imagem-questao-07-8]",
+            "d": "[imagem-questao-07-9]",
+            "e": "[imagem-questao-07-10]"
+          },
+          "answer": "b"
+        },
+        {
+          "number": "08",
+          "prova": "ENEM REGULAR 2018",
+          "probabilidade": "18.8",
+          "enunciado": "Para criar um logotipo, um profissional da área de _design_ gráfico deseja construí-lo utilizando o conjunto de pontos do plano na forma de um triângulo, exatamente como mostra a imagem.\n\n[imagem-questao-08-1]\n\nPara construir tal imagem utilizando uma ferramenta gráfica, será necessário escrever algebricamente o conjunto que representa os pontos desse gráfico.\n\nEsse conjunto é dado pelos pares ordenados [imagem-questao-08-2] tais que",
+          "alternatives": {
+            "a": "[imagem-questao-08-3]",
+            "b": "[imagem-questao-08-4]",
+            "c": "[imagem-questao-08-5]",
+            "d": "[imagem-questao-08-6]",
+            "e": "[imagem-questao-08-7]"
+          },
+          "answer": "b"
+        },
+        {
+          "number": "09",
+          "prova": "ENEM REGULAR 2018",
+          "probabilidade": "22.4",
+          "enunciado": "Com o avanço em ciência da computação, estamos próximos do momento em que o número de transistores no processador de um computador pessoal será da mesma ordem de grandeza que o número de neurônios em um cérebro humano, que é da ordem de [imagem-questao-09-1] bilhões.\n\nUma das grandezas determinantes para o desempenho de um processador é a densidade de transistores, que é o número de transistores por centímetro quadrado. Em 1986, uma empresa fabricava um processador contendo [imagem-questao-09-2] transistores distribuídos em [imagem-questao-09-3] de área. Desde então, o número de transistores por centímetro quadrado que se pode colocar em um processador dobra a cada dois anos (Lei de Moore).\n\nDisponível em: www.pocket-lint.com. Acesso em: 1 dez. 2017 (adaptado).\n\nConsidere [imagem-questao-09-4] como aproximação para [imagem-questao-09-5]\n\nEm que ano a empresa atingiu ou atingirá a densidade de [imagem-questao-09-6] bilhões de transistores?",
+          "alternatives": {
+            "a": "1999",
+            "b": "2002",
+            "c": "2022",
+            "d": "2026",
+            "e": "2146"
+          },
+          "answer": "c"
+        },
+        {
+          "number": "10",
+          "prova": "ENEM REGULAR 2018",
+          "probabilidade": "30.7",
+          "enunciado": "Uma loja vende automóveis em [imagem-questao-10-1] parcelas iguais sem juros. No momento de contratar o financiamento, caso o cliente queira aumentar o prazo, acrescentando mais [imagem-questao-10-2] parcelas, o valor de cada uma das parcelas diminui [imagem-questao-10-3] ou se ele quiser diminuir o prazo, com [imagem-questao-10-4] parcelas a menos, o valor de cada uma das parcelas sobe [imagem-questao-10-5] Considere ainda que, nas três possibilidades de pagamento, o valor do automóvel é o mesmo, todas são sem juros e não é dado desconto em nenhuma das situações.\n\nNessas condições, qual é a quantidade [imagem-questao-10-6] de parcelas a serem pagas de acordo com a proposta inicial da loja?",
+          "alternatives": {
+            "a": "[imagem-questao-10-7]",
+            "b": "[imagem-questao-10-8]",
+            "c": "[imagem-questao-10-9]",
+            "d": "[imagem-questao-10-10]",
+            "e": "[imagem-questao-10-11]"
+          },
+          "answer": "b"
+        },
+        {
+          "number": "11",
+          "prova": "ENEM REGULAR 2018",
+          "probabilidade": "16.4",
+          "enunciado": "A figura mostra uma praça circular que contém um chafariz em seu centro e, em seu entorno, um passeio. Os círculos que definem a praça e o chafariz são concêntricos.\n\n[imagem-questao-11-1]\n\nO passeio terá seu piso revestido com ladrilhos. Sem condições de calcular os raios, pois o chafariz está cheio, um engenheiro fez a seguinte medição: esticou uma trena tangente ao chafariz, medindo a distância entre dois pontos [imagem-questao-11-2] e [imagem-questao-11-3] conforme a figura. Com isso, obteve a medida do segmento de reta [imagem-questao-11-4]\n\n[imagem-questao-11-5]\n\nDispondo apenas dessa medida, o engenheiro calculou corretamente a medida da área do passeio, em metro quadrado.\n\nA medida encontrada pelo engenheiro foi",
+          "alternatives": {
+            "a": "[imagem-questao-11-6]",
+            "b": "[imagem-questao-11-7]",
+            "c": "[imagem-questao-11-8]",
+            "d": "[imagem-questao-11-9]",
+            "e": "[imagem-questao-11-10]"
+          },
+          "answer": "d"
+        },
+        {
+          "number": "12",
+          "prova": "ENEM REGULAR 2018",
+          "probabilidade": "13.7",
+          "enunciado": "Um _designer_ de jogos planeja um jogo que faz uso de um tabuleiro de dimensão [imagem-questao-12-1] com [imagem-questao-12-2] no qual cada jogador, na sua vez, coloca uma peça sobre uma das casas vazias do tabuleiro. Quando uma peça é posicionada, a região formada pelas casas que estão na mesma linha ou coluna dessa peça é chamada de zona de combate dessa peça. Na figura está ilustrada a zona de combate de uma peça colocada em uma das casas de um tabuleiro de dimensão [imagem-questao-12-3]\n\n[imagem-questao-12-4]\n\nO tabuleiro deve ser dimensionado de forma que a probabilidade de se posicionar a segunda peça aleatoriamente, seguindo a regra do jogo, e esta ficar sobre a zona de combate da primeira, seja inferior a [imagem-questao-12-5]\n\nA dimensão mínima que o designer deve adotar para esse tabuleiro é",
+          "alternatives": {
+            "a": "[imagem-questao-12-6]",
+            "b": "[imagem-questao-12-7]",
+            "c": "[imagem-questao-12-8]",
+            "d": "[imagem-questao-12-9]",
+            "e": "[imagem-questao-12-10]"
+          },
+          "answer": "d"
+        },
+        {
+          "number": "13",
+          "prova": "ENEM REGULAR 2018",
+          "probabilidade": "24.8",
+          "enunciado": "O Salão do Automóvel de São Paulo é um evento no qual vários fabricantes expõem seus modelos mais recentes de veículos, mostrando, principalmente, suas inovações em _design_ e tecnologia.\n\nDisponível em: http://g1.globo.com. Acesso em: 4 fev. 2015 (adaptado).\n\nUma montadora pretende participar desse evento com dois estandes, um na entrada e outro na região central do salão, expondo, em cada um deles, um carro compacto e uma caminhonete.\n\nPara compor os estandes, foram disponibilizados pela montadora quatro carros compactos, de modelos distintos, e seis caminhonetes de diferentes cores para serem escolhidos aqueles que serão expostos. A posição dos carros dentro de cada estande é irrelevante.\n\nUma expressão que fornece a quantidade de maneiras diferentes que os estandes podem ser compostos é",
+          "alternatives": {
+            "a": "[imagem-questao-13-1]",
+            "b": "[imagem-questao-13-2]",
+            "c": "[imagem-questao-13-3]",
+            "d": "[imagem-questao-13-4]",
+            "e": "[imagem-questao-13-5]"
+          },
+          "answer": "c"
+        },
+        {
+          "number": "14",
+          "prova": "ENEM REGULAR 2018",
+          "probabilidade": "18.9",
+          "enunciado": "Os guindastes são fundamentais em canteiros de obras, no manejo de materiais pesados como vigas de aço. A figura ilustra uma sequência de estágios em que um guindaste iça uma viga de aço que se encontra inicial mente no solo.\n\n[imagem-questao-14-1]\n\nNa figura, o ponto [imagem-questao-14-2] representa a projeção ortogonal do cabo de aço sobre o plano do chão e este se mantém na vertical durante todo o movimento de içamento da viga, que se inicia no tempo [imagem-questao-14-3] (estágio 1) e finaliza no tempo [imagem-questao-14-4] (estágio 3). Uma das extremidades da viga é içada verticalmente a partir do ponto [imagem-questao-14-5] enquanto que a outra extremidade desliza sobre o solo em direção ao ponto [imagem-questao-14-6] Considere que o cabo de aço utilizado pelo guindaste para içar a viga fique sempre na posição vertical. Na figura, o ponto [imagem-questao-14-7] representa o ponto médio do segmento que representa a viga.\n\nO gráfico que descreve a distância do ponto [imagem-questao-14-8] ao ponto [imagem-questao-14-9] em função do tempo, entre [imagem-questao-14-10] e [imagem-questao-14-11] é",
+          "alternatives": {
+            "a": "[imagem-questao-14-12] b) [imagem-questao-14-13]",
+            "c": "[imagem-questao-14-14] d) [imagem-questao-14-15]",
+            "e": "[imagem-questao-14-16]"
+          },
+          "answer": "a"
+        },
+        {
+          "number": "15",
+          "prova": "ENEM REGULAR 2018",
+          "probabilidade": "9.6",
+          "enunciado": "Para apagar os focos [imagem-questao-15-1] e [imagem-questao-15-2] de um incêndio, que estavam a uma distância de [imagem-questao-15-3] um do outro, os bombeiros de um quartel decidiram se posicionar de modo que a distância de um bombeiro ao foco [imagem-questao-15-4] de temperatura mais elevada, fosse sempre o dobro da distância desse bombeiro ao foco [imagem-questao-15-5] de temperatura menos elevada.\n\nNestas condições, a maior distância, em metro, que dois bombeiros poderiam ter entre eles é",
+          "alternatives": {
+            "a": "[imagem-questao-15-6]",
+            "b": "[imagem-questao-15-7]",
+            "c": "[imagem-questao-15-8]",
+            "d": "[imagem-questao-15-9]",
+            "e": "[imagem-questao-15-10]"
+          },
+          "answer": "b"
+        }
+      ],
+      "gabarito": {
+        "10": "b",
+        "11": "d",
+        "12": "d",
+        "13": "c",
+        "14": "a",
+        "15": "b",
+        "01": "c",
+        "02": "c",
+        "03": "e",
+        "04": "d",
+        "05": "b",
+        "06": "e",
+        "07": "b",
+        "08": "b",
+        "09": "c"
+      }
+    },
+    {
+      "nome": "LISTA 06",
+      "proficiencia": "750 a 1000 pontos",
+      "questoes": [
+        {
+          "number": "01",
+          "prova": "ENEM REGULAR 2018",
+          "probabilidade": "21.9",
+          "enunciado": "Uma empresa de comunicação tem a tarefa de elaborar um material publicitário de um estaleiro para divulgar um novo navio, equipado com um guindaste de [imagem-questao-01-1] de altura e uma esteira de [imagem-questao-01-2] de comprimento. No desenho desse navio, a representação do guindaste deve ter sua altura entre [imagem-questao-01-3] e [imagem-questao-01-4] enquanto a esteira deve apresentar comprimento superior a [imagem-questao-01-5] Todo o desenho deverá ser feito em uma escala [imagem-questao-01-6]\n\nOs valores possíveis para [imagem-questao-01-7] são, apenas,",
+          "alternatives": {
+            "a": "[imagem-questao-01-8]",
+            "b": "[imagem-questao-01-9]",
+            "c": "[imagem-questao-01-10]",
+            "d": "[imagem-questao-01-11]",
+            "e": "[imagem-questao-01-12]"
+          },
+          "answer": "c"
+        },
+        {
+          "number": "02",
+          "prova": "ENEM REGULAR 2018",
+          "probabilidade": "14.7",
+          "enunciado": "Um rapaz estuda em uma escola que fica longe de sua casa, e por isso precisa utilizar o transporte público. Como é muito observador, todos os dias ele anota a hora exata (sem considerar os segundos) em que o ônibus passa pelo ponto de espera. Também notou que nunca consegue chegar ao ponto de ônibus antes de [imagem-questao-02-1] da manhã. Analisando os dados coletados durante o mês de fevereiro, o qual teve [imagem-questao-02-2] dias letivos, ele concluiu que [imagem-questao-02-3] foi o que mais se repetiu, e que a mediana do conjunto de dados é [imagem-questao-02-4]\n\nA probabilidade de que, em algum dos dias letivos de fevereiro, esse rapaz tenha apanhado o ônibus antes de [imagem-questao-02-5] da manhã é, no máximo,",
+          "alternatives": {
+            "a": "[imagem-questao-02-6]",
+            "b": "[imagem-questao-02-7]",
+            "c": "[imagem-questao-02-8]",
+            "d": "[imagem-questao-02-9]",
+            "e": "[imagem-questao-02-10]"
+          },
+          "answer": "d"
+        },
+        {
+          "number": "03",
+          "prova": "ENEM REGULAR 2018",
+          "probabilidade": "16.9",
+          "enunciado": "Um produtor de milho utiliza uma área de [imagem-questao-03-1] hectares para as suas atividades agrícolas. Essa área é dividida em duas partes: uma de [imagem-questao-03-2] hectares, com maior produtividade, e outra, de [imagem-questao-03-3] hectares, com menor produtividade.\n\nA produtividade é dada pela razão entre a produção, em tonelada, e a área cultivada. Sabe-se que a área de [imagem-questao-03-4] hectares tem produtividade igual a [imagem-questao-03-5] vezes à da outra. Esse fazendeiro pretende aumentar sua produção total em [imagem-questao-03-6] aumentando o tamanho da sua propriedade. Para tanto, pretende comprar uma parte de uma fazenda vizinha, que possui a mesma produtividade da parte de [imagem-questao-03-7] hectares de suas terras.\n\nQual é a área mínima, em hectare, que o produtor precisará comprar?",
+          "alternatives": {
+            "a": "[imagem-questao-03-8]",
+            "b": "[imagem-questao-03-9]",
+            "c": "[imagem-questao-03-10]",
+            "d": "[imagem-questao-03-11]",
+            "e": "[imagem-questao-03-12]"
+          },
+          "answer": "b"
+        },
+        {
+          "number": "04",
+          "prova": "ENEM PPL 2018",
+          "probabilidade": "23.9",
+          "enunciado": "Uma fábrica comercializa chocolates em uma caixa de madeira, como na figura.\n\n[imagem-questao-04-1]\n\nA caixa de madeira tem a forma de um paralelepípedo reto-retângulo cujas dimensões externas, em centímetro, estão indicadas na figura. Sabe-se também que a espessura da madeira, em todas as suas faces, é de [imagem-questao-04-2]\n\nQual é o volume de madeira utilizado, em centímetro cúbico, na construção de uma caixa de madeira como a descrita para embalar os chocolates?",
+          "alternatives": {
+            "a": "[imagem-questao-04-3]",
+            "b": "[imagem-questao-04-4]",
+            "c": "[imagem-questao-04-5]",
+            "d": "[imagem-questao-04-6]",
+            "e": "[imagem-questao-04-7]"
+          },
+          "answer": "c"
+        },
+        {
+          "number": "05",
+          "prova": "ENEM PPL 2018",
+          "probabilidade": "9.5",
+          "enunciado": "Uma empresa especializada em embalagem de papelão recebeu uma encomenda para fabricar caixas para um determinado modelo de televisor, como o da figura.\n\n[imagem-questao-05-1]\n\nA embalagem deve deixar uma folga de [imagem-questao-05-2] em cada uma das dimensões. Esta folga será utilizada para proteger a televisão com isopor. O papelão utilizado na confecção das caixas possui uma espessura de [imagem-questao-05-3]\n\nA empresa possui [imagem-questao-05-4] protótipos de caixa de papelão, na forma de um paralelepípedo reto-retângulo, cujas medidas externas: comprimento, altura e largura, em centímetro, são respectivamente iguais a:\n\nCaixa 1: [imagem-questao-05-5]\n\nCaixa 2: [imagem-questao-05-6]\n\nCaixa 3: [imagem-questao-05-7]\n\nCaixa 4: [imagem-questao-05-8]\n\nCaixa 5: [imagem-questao-05-9]\n\nO modelo de caixa de papelão que atende exatamente as medidas das dimensões especificadas é a",
+          "alternatives": {
+            "a": "caixa 1.",
+            "b": "caixa 2.",
+            "c": "caixa 3.",
+            "d": "caixa 4.",
+            "e": "caixa 5."
+          },
+          "answer": "e"
+        },
+        {
+          "number": "06",
+          "prova": "ENEM PPL 2018",
+          "probabilidade": "4.2",
+          "enunciado": "Uma senhora acaba de fazer uma ultrassonografia e descobre que está grávida de quadrigêmeos.\n\nQual é a probabilidade de nascerem dois meninos e duas meninas?",
+          "alternatives": {
+            "a": "[imagem-questao-06-1]",
+            "b": "[imagem-questao-06-2]",
+            "c": "[imagem-questao-06-3]",
+            "d": "[imagem-questao-06-4]",
+            "e": "[imagem-questao-06-5]"
+          },
+          "answer": "d"
+        },
+        {
+          "number": "07",
+          "prova": "ENEM",
+          "probabilidade": "",
+          "enunciado": "PROBABILIDADE DE ACERTO AO ACASO:\n\nIsometria é uma transformação geométrica que, aplicada a uma figura, mantém as distâncias entre pontos. Duas das transformações isométricas são a reflexão e a rotação. A reflexão ocorre por meio de uma reta chamada eixo. Esse eixo funciona como um espelho, a imagem refletida é o resultado da transformação. A rotação é o “giro” de uma figura ao redor de um ponto chamado centro de rotação. A figura sofreu cinco transformações isométricas, nessa ordem:\n\n[imagem-questao-07-1]\n\n1ª) Reflexão no eixo [imagem-questao-07-2]\n\n2ª) Rotação de [imagem-questao-07-3] graus no sentido anti-horário, com centro de rotação no ponto [imagem-questao-07-4]\n\n3ª) Reflexão no eixo [imagem-questao-07-5]\n\n4ª) Rotação de [imagem-questao-07-6] graus no sentido horário, com centro de rotação no ponto [imagem-questao-07-7]\n\n5ª) Reflexão no eixo [imagem-questao-07-8]\n\nDisponível em: www.pucsp.br. Acesso em: 2 ago. 2012.\n\nQual a posição final da figura?",
+          "alternatives": {
+            "a": "[imagem-questao-07-9]",
+            "b": "[imagem-questao-07-10]",
+            "c": "[imagem-questao-07-11]",
+            "d": "[imagem-questao-07-12]",
+            "e": "[imagem-questao-07-13]"
+          },
+          "answer": "c"
+        },
+        {
+          "number": "08",
+          "prova": "ENEM PPL 2018",
+          "probabilidade": "33.0",
+          "enunciado": "O índice de massa corporal (IMC) de uma pessoa é definido como o quociente entre a massa dessa pessoa, medida em quilograma, e o quadrado da sua altura, medida em metro. Esse índice é usado como parâmetro para verificar se indivíduo está ou não acima do peso ideal para a sua altura. Durante o ano de 2011, uma pessoa foi acompanhada por um nutricionista e passou por um processo de reeducação alimentar. O gráfico indica a variação mensal do IMC dessa pessoa, durante o referido período. Para avaliar o sucesso do tratamento, o nutricionista vai analisar as medidas estatísticas referentes à variação do IMC.\n\n[imagem-questao-08-1]\n\nDe acordo com o gráfico, podemos concluir que a mediana da variação mensal do IMC dessa pessoa é igual a",
+          "alternatives": {
+            "a": "[imagem-questao-08-2]",
+            "b": "[imagem-questao-08-3]",
+            "c": "[imagem-questao-08-4]",
+            "d": "[imagem-questao-08-5]",
+            "e": "[imagem-questao-08-6]"
+          },
+          "answer": "a"
+        },
+        {
+          "number": "09",
+          "prova": "ENEM PPL 2018",
+          "probabilidade": "9.2",
+          "enunciado": "Um projétil é lançado por um canhão e atinge o solo a uma distância de [imagem-questao-09-1] metros do ponto de partida. Ele percorre uma trajetória parabólica, e a altura máxima que atinge em relação ao solo é de [imagem-questao-09-2] metros.\n\n[imagem-questao-09-3]\n\nAdmita um sistema de coordenadas [imagem-questao-09-4] em que no eixo vertical [imagem-questao-09-5] está representada a altura e no eixo horizontal [imagem-questao-09-6] está representada a distância, ambas em metro. Considere que o canhão está no ponto [imagem-questao-09-7] e que o projétil atinge o solo no ponto [imagem-questao-09-8] do plano [imagem-questao-09-9]\n\nA equação da parábola que representa a trajetória descrita pelo projétil é",
+          "alternatives": {
+            "a": "[imagem-questao-09-10]",
+            "b": "[imagem-questao-09-11]",
+            "c": "[imagem-questao-09-12]",
+            "d": "[imagem-questao-09-13]",
+            "e": "[imagem-questao-09-14]"
+          },
+          "answer": "e"
+        },
+        {
+          "number": "10",
+          "prova": "ENEM PPL 2018",
+          "probabilidade": "22.9",
+          "enunciado": "Um brinquedo chamado pula-pula, quando visto de cima, consiste de uma cama elástica com contorno em formato de um hexágono regular.\n\n[imagem-questao-10-1]\n\nSe a área do círculo inscrito no hexágono é [imagem-questao-10-2] metros quadrados, então a área do hexágono, em metro quadrado, é",
+          "alternatives": {
+            "a": "[imagem-questao-10-3]",
+            "b": "[imagem-questao-10-4]",
+            "c": "[imagem-questao-10-5]",
+            "d": "[imagem-questao-10-6]",
+            "e": "[imagem-questao-10-7]"
+          },
+          "answer": "b"
+        },
+        {
+          "number": "11",
+          "prova": "ENEM PPL 2018",
+          "probabilidade": "6.7",
+          "enunciado": "Um comerciante abrirá um supermercado, no mês de outubro, e precisa distribuir [imagem-questao-11-1] produtos de limpeza em uma gôndola de cinco prateleiras que estão dispostas uma acima da outra (um tipo de produto por prateleira).\n\nEle sabe que a terceira prateleira oferece uma melhor visibilidade dos produtos aos clientes. Ele fez uma pesquisa sobre o número de vendas desses produtos, nos meses de agosto e setembro, em uma loja da concorrência (mostrada a seguir), e pretende incrementar suas vendas, em relação a seu concorrente, colocando na terceira prateleira de seu supermercado o produto que teve o maior índice de aumento nas vendas no mês de setembro em relação ao mês de agosto, na loja concorrente.\n\n**Produto**\n\n**Número de unidades vendidas em agosto**\n\n**Número de unidades vendidas em setembro**\n\nI\n\n[imagem-questao-11-2]\n\n[imagem-questao-11-3]\n\nII\n\n[imagem-questao-11-4]\n\n[imagem-questao-11-5]\n\nIII\n\n[imagem-questao-11-6]\n\n[imagem-questao-11-7]\n\nIV\n\n[imagem-questao-11-8]\n\n[imagem-questao-11-9]\n\nV\n\n[imagem-questao-11-10]\n\n[imagem-questao-11-11]\n\nO comerciante deve colocar na terceira prateleira o produto número",
+          "alternatives": {
+            "a": "I.",
+            "b": "II.",
+            "c": "III.",
+            "d": "IV.",
+            "e": "V."
+          },
+          "answer": "b"
+        },
+        {
+          "number": "12",
+          "prova": "ENEM PPL 2018",
+          "probabilidade": "22.2",
+          "enunciado": "O gerente de uma empresa sabe que [imagem-questao-12-1] de seus funcionários são do sexo masculino e foi informado de que a porcentagem de empregados fumantes nessa empresa é de [imagem-questao-12-2] dos homens e de [imagem-questao-12-3] das mulheres. Selecionando, ao acaso, a ficha de cadastro de um dos funcionários, verificou tratar-se de um fumante.\n\nQual a probabilidade de esse funcionário ser do sexo feminino?",
+          "alternatives": {
+            "a": "[imagem-questao-12-4]",
+            "b": "[imagem-questao-12-5]",
+            "c": "[imagem-questao-12-6]",
+            "d": "[imagem-questao-12-7]",
+            "e": "[imagem-questao-12-8]"
+          },
+          "answer": "b"
+        },
+        {
+          "number": "13",
+          "prova": "ENEM PPL 2018",
+          "probabilidade": "9.8",
+          "enunciado": "Em março de 2011, um terremoto de [imagem-questao-13-1] graus de magnitude na escala Richter atingiu o Japão matando milhares de pessoas e causando grande destruição. Em janeiro daquele ano, um terremoto de [imagem-questao-13-2] graus na escala Richter atingiu a cidade de Santiago Del Estero, na Argentina. A magnitude de um terremoto, medida pela escala Richter, é [imagem-questao-13-3] em que [imagem-questao-13-4] é a amplitude do movimento vertical do solo, informado em um sismógrafo, [imagem-questao-13-5] é uma amplitude de referência e [imagem-questao-13-6] representa o logaritmo na base [imagem-questao-13-7]\n\nDisponível em: http://earthquake.usgs.gov. Acesso em: 28 fev. 2012 (adaptado).\n\nA razão entre as amplitudes dos movimentos verticais dos terremotos do Japão e da Argentina é",
+          "alternatives": {
+            "a": "[imagem-questao-13-8]",
+            "b": "[imagem-questao-13-9]",
+            "c": "[imagem-questao-13-10]",
+            "d": "[imagem-questao-13-11]",
+            "e": "[imagem-questao-13-12]"
+          },
+          "answer": "d"
+        },
+        {
+          "number": "14",
+          "prova": "ENEM PPL 2018",
+          "probabilidade": "26.5",
+          "enunciado": "A resistência elétrica [imagem-questao-14-1] de um condutor homogêneo é inversamente proporcional à área [imagem-questao-14-2] de sua seção transversal.\n\n[imagem-questao-14-3]\n\nO gráfico que representa a variação da resistência [imagem-questao-14-4] do condutor em função da área [imagem-questao-14-5] de sua seção transversal é",
+          "alternatives": {
+            "a": "[imagem-questao-14-6]",
+            "b": "[imagem-questao-14-7]",
+            "c": "[imagem-questao-14-8]",
+            "d": "[imagem-questao-14-9]",
+            "e": "[imagem-questao-14-10]"
+          },
+          "answer": "c"
+        }
+      ],
+      "gabarito": {
+        "10": "b",
+        "11": "b",
+        "12": "b",
+        "13": "d",
+        "14": "c",
+        "01": "c",
+        "02": "d",
+        "03": "b",
+        "04": "c",
+        "05": "e",
+        "06": "d",
+        "07": "c",
+        "08": "a",
+        "09": "e"
+      }
+    }
+  ]
+}
